@@ -60,11 +60,7 @@ jobs:
         path: build/libs/*.jar
 
     - name: Publish to GitHub Releases and CurseForge
-      if: |
-        (github.event_name == 'push' || github.event_name == 'workflow_dispatch') &&
-        !contains(github.event.head_commit.message, '[skip deploy]') &&
-        !contains(github.event.head_commit.message, '[skip release]') &&
-        !startsWith(github.event.head_commit.message, 'docs')
+      if: github.ref_type == 'tag' || github.event_name == 'workflow_dispatch'
       uses: Kir-Antipov/mc-publish@v3.3
       with:
         curseforge-id: ${{ secrets.CURSEFORGE_PROJECT_ID }}
