@@ -1,0 +1,15 @@
+Villager News (Java Edition Port) - Credits & Acknowledgments
+=============================================================
+
+Original Concept & Bedrock Addon:
+- Element Animation & Oreville Studios
+  Creators of the Villager News series, original models, sounds, animations, and Bedrock addon.
+  https://www.elementanimation.com/
+
+Java Edition Port:
+- Ported for Minecraft 1.20.1 Forge by the community.
+- Full PT-BR translation and voice synthesis pipeline.
+
+Minecraft Forge:
+- Forge Team (LexManos, cpw, and contributors) for the Minecraft Forge modding API and MDK.
+- MCP (Minecraft Coder Pack) team for mappings and decompilation tools.

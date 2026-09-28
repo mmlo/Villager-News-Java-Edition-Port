@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "oreville/vn",
+      "prefix": "oreville/vn/"
+    }
+  ]
+}

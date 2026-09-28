@@ -1,0 +1,67 @@
+name: Build, Test & Deploy
+
+on:
+  push:
+    branches: [ "main" ]
+    tags: [ "v*" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@v3
+
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+
+    - name: Run Tests
+      run: ./gradlew test --no-daemon
+
+    - name: Build Mod Jar
+      run: ./gradlew build --no-daemon -x test
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: VillagerNews-Forge-1.20.1
+        path: build/libs/*.jar
+
+    - name: Publish to GitHub Releases and CurseForge
+      if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        curseforge-id: ${{ secrets.CURSEFORGE_PROJECT_ID }}
+        curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        files: build/libs/!(*-sources|*-javadoc).jar
+        name: Villager News (Java Edition Port) ${{ github.ref_type == 'tag' && github.ref_name || '1.0.4-port.1' }}
+        version: ${{ github.ref_type == 'tag' && github.ref_name || format('1.0.4-port.1+{0}', github.run_number) }}
+        version-type: release
+        loaders: forge
+        game-versions: 1.20.1
+        java: 17
+        changelog: |
+          ### Villager News (Java Edition Port) - Forge 1.20.1
+          - Port fiel do addon Minecraft Bedrock "Villager News 1.0" para Minecraft Vanilla Java Edition 1.20.1 com Forge.
+          - Mais de 2.200 linhas de áudio falado com vozes em Inglês e Português Brasileiro (PT-BR).
+          - Renderização de geometrias 3D Bedrock e animações Molang fiéis ao original.
+          - Livro Guia do Repórter interativo in-game.
+          - Itens cosméticos: Microfone, Chapéu do Prefeito, Bigodes, Elmo Testificate e Nariz de Villager.
+        fail-mode: warn

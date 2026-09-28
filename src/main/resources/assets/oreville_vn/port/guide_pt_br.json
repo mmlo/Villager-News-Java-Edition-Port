@@ -1,0 +1,2203 @@
+{
+  "vhbeyx": [
+    {
+      "header": "Gatilhos e reações",
+      "body": "§7Gatilhos são ações, eventos ou situações que os aldeões podem perceber. As reações são o diálogo e as animações com as quais eles podem responder."
+    },
+    {
+      "header": "Próximo e visível",
+      "body": "§7A maioria das reações exige que um aldeão esteja por perto ou seja capaz de ver o que está acontecendo. Gatilhos diferentes podem ter requisitos de detecção diferentes."
+    },
+    {
+      "header": "Recargas",
+      "body": "§7As reações usam tempos de espera para manter o diálogo natural. Repetir ações iguais ou semelhantes pode não desencadear outra reação imediatamente."
+    },
+    {
+      "header": "Nenhuma reação?",
+      "body": "§7Nem todo gatilho fará com que um aldeão reaja todas as vezes. Tempos de espera, distância, visibilidade, contexto e tagarelice podem afetar o desempenho de uma reação."
+    },
+    {
+      "header": "O contexto é importante",
+      "body": "§7Algumas reações dependem de condições adicionais, como a profissão do Aldeão, idade, ambiente, sua reputação ou o que está acontecendo nas proximidades."
+    },
+    {
+      "header": "Variações de reação",
+      "body": "§7Muitos gatilhos têm múltiplas reações possíveis, então os aldeões nem sempre respondem à mesma situação exatamente da mesma maneira."
+    },
+    {
+      "header": "Conversação",
+      "body": "§7Villager Chattiness controla a frequência com que os aldeões falam. Configurações mais baixas tornam as reações menos frequentes, enquanto configurações mais altas tornam os aldeões mais falantes."
+    },
+    {
+      "header": "Linhas Raras",
+      "body": "§7Algumas reações incluem Linhas Raras mais longas e incomuns. Sua frequência pode ser ajustada separadamente usando Rare Villager Lines em Configurações."
+    }
+  ],
+  "mqptgt": [
+    {
+      "header": "Dia da semana",
+      "body": "§eGatilho\n\n§7Jogue de segunda a sexta no mundo real.\n\n§eReação\n\n§7Comentários específicos de segunda a sexta com base no calendário do mundo real."
+    },
+    {
+      "header": "Vagando em um dia de semana",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear de segunda a sexta no mundo real.\n\n§eReação\n\n§7 Conversa extra errante no mundo real, de segunda a sexta-feira."
+    },
+    {
+      "header": "Fim de semana",
+      "body": "§eGatilho\n\n§7Jogue no sábado ou domingo no mundo real.\n\n§eReação\n\n§7Comentários específicos do fim de semana baseados no calendário do mundo real."
+    }
+  ],
+  "cphxgl": [
+    {
+      "header": "Diálogo Reativo",
+      "body": "§7Os aldeões reagem a mobs próximos, bloqueios, ações dos jogadores, trocas, danos e muito mais. Tente fazer coisas ao seu redor e ouça uma resposta."
+    },
+    {
+      "header": "Animações",
+      "body": "§7Os aldeões são totalmente animados com movimentos personalizados, animações de voz expressivas e sincronização labial que dão vida aos diálogos."
+    },
+    {
+      "header": "Estilos de Aldeão",
+      "body": "§7Escolha entre Vanilla, Actions & Stuff e Actions & Stuff: Flat Style Villagers in Settings para combinar com a aparência do seu mundo."
+    },
+    {
+      "header": "Conversas",
+      "body": "§7Os aldeões não reagem apenas a você. Eles também podem interagir entre si, com conversas e trocas únicas entre os Aldeões."
+    },
+    {
+      "header": "Categorias de reação",
+      "body": "§7As reações cobrem ações do jogador, mobs, construção, comércio, vida do aldeão, danos, eventos mundiais, conversas e muito mais. Navegue pelo Guia de gatilhos e reações para descobrir todos eles."
+    },
+    {
+      "header": "Reputação do Jogador",
+      "body": "§7Os aldeões se lembram de como você os trata. Negociar e curar aldeões melhora sua reputação, enquanto feri-los ou matá-los a diminui. Os aldeões vão até fofocar sobre você uns com os outros, mudando a forma como reagem a você."
+    },
+    {
+      "header": "Aldeões Especiais",
+      "body": "§7Um de cada personagem especial do Villager News aparece em seu mundo. Explore diferentes aldeias para encontrá-las e troque por seus itens exclusivos."
+    },
+    {
+      "header": "Comerciantes Errantes",
+      "body": "§7Wandering Traders têm seu próprio diálogo para negociação, ações esgotadas, negócios bem-sucedidos e muito mais."
+    },
+    {
+      "header": "Aldeões bebês",
+      "body": "§7Os Baby Villagers têm suas próprias reações e animações."
+    },
+    {
+      "header": "Linhas Raras",
+      "body": "§7As linhas raras são reações mais longas, mais incomuns e exageradas. Use a configuração Rare Villager Lines para desativá-los ou torná-los mais comuns."
+    },
+    {
+      "header": "Conversação",
+      "body": "§7Use a Conversação do Aldeão nas Configurações para controlar a frequência com que os Aldeões falam, desde completamente silencioso até extremamente tagarela."
+    },
+    {
+      "header": "Legendas",
+      "body": "§7Ative Mostrar legendas nas configurações se desejar que as falas sejam exibidas na tela."
+    }
+  ],
+  "gucqpi": [
+    {
+      "header": "Aldeão #5",
+      "body": "§7O apresentador inconfundivelmente bigodudo do Villager News, contando as histórias mais importantes do dia com total confiança.\n\n§eComércio: §fBigode"
+    },
+    {
+      "header": "Aldeão #9",
+      "body": "§7Repórter de campo do Villager News, corajosamente reportando ao vivo de onde quer que a história o leve.\n\n§eComércio: §fMicrofone"
+    },
+    {
+      "header": "O prefeito",
+      "body": "§7Um membro íntegro da comunidade, desde que você não olhe muito de perto para sua administração.\n\n§eTroca: §fChapéu Prefeito"
+    },
+    {
+      "header": "Testificate Man",
+      "body": "§7Na na na na... (parando para evitar violação de direitos autorais) ...Testificate Man!\n\n§eTroca: §fCapacete Testemunho"
+    },
+    {
+      "header": "Aldeão Intocável",
+      "body": "§7Você pode vê-lo. Você pode segui-lo. Mas você não pode tocá-lo."
+    },
+    {
+      "header": "Lanoso",
+      "body": "§7Uma ovelha de poucas palavras. Principalmente \"Baaah\"."
+    }
+  ],
+  "vxivvu": [
+    {
+      "header": "Narizes de Aldeão",
+      "body": "§eObtenha: §7Corte qualquer Aldeão\n\n§eUse: §7Use-o ou interaja com o Aldeão para colocá-lo de volta"
+    },
+    {
+      "header": "Chapéu de prefeito",
+      "body": "§eObtenha: §7Negocie com o Prefeito\n\n§eUse: §7Use você mesmo ou dê a um aldeão alguma autoridade instantânea"
+    },
+    {
+      "header": "Capacete de Testemunho",
+      "body": "§eObtenha: §7Negocie com o Testificate Man\n\n§eUse: §7Use você mesmo ou transforme outro aldeão em um herói"
+    },
+    {
+      "header": "Bigode",
+      "body": "§eObtenha: §7Negocie com o Aldeão #5\n\n§eUse: §7Use você mesmo ou dê a outro aldeão a aparência adequada de apresentador de notícias"
+    },
+    {
+      "header": "Microfone",
+      "body": "§eObtenha: §7Negocie com o Aldeão #9\n\n§eUse: §7Segure você mesmo ou dê a um aldeão as ferramentas para reportar ao vivo"
+    },
+    {
+      "header": "Sinais",
+      "body": "§eDê: §7Interaja com um aldeão enquanto segura uma placa\n\n§eAlteração: §7Use um machado para percorrer as mensagens"
+    }
+  ],
+  "oshzpy": [
+    {
+      "header": "Estúdios Oreville",
+      "body": "§eSite\n§7orevillestudios.com\n\n§eDiscordância\n§7orevillestudios.com/discord\n\n§eX\n§7x.com/OrevilleStudios\n\n§eYouTube\n§7youtube.com/OrevilleStudios"
+    },
+    {
+      "header": "Animação de elemento",
+      "body": "§eSite\n§7elementanimation.com\n\n§eDiscordância\n§7elementanimation.com/discord\n\n§eX\n§7x.com/Element\n\n§eYouTube\n§7youtube.com/ElementAnimation"
+    }
+  ],
+  "nrbfth": {
+    "eywgoa": {
+      "title": "Aproxime-se de um aldeão",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que um aldeão perceba você.\n\n§eReação\n\n§7Saudações gerais, perguntas e comentários quando você for notado pela primeira vez."
+    },
+    "ahlqxa": {
+      "title": "Olhe para um aldeão",
+      "body": "§eGatilho\n\n§7Olhe diretamente para um aldeão por um tempo.\n\n§eReação\n\n§7Perguntas e comentários estranhos sobre você ficar olhando por muito tempo."
+    },
+    "pxwoyu": {
+      "title": "Fique completamente imóvel",
+      "body": "§eGatilho\n\n§7Fique completamente imóvel por um tempo.\n\n§eReação\n\n§7Perguntas sobre se você se tornou uma estátua."
+    },
+    "dehrdn": {
+      "title": "Fique com outros jogadores",
+      "body": "§eGatilho\n\n§7Fique perto de pelo menos um outro jogador.\n\n§eReação\n\n§7Comentários surpresos sobre vários jogadores reunidos."
+    },
+    "lpxwgs": {
+      "title": "Tosquiar uma ovelha",
+      "body": "§eGatilho\n\n§7Tosquiar uma ovelha.\n\n§eReação\n\n§7Reações de surpresa e desaprovação à tosquia da ovelha."
+    },
+    "kjuaul": {
+      "title": "Solte um fogo de artifício",
+      "body": "§eGatilho\n\n§7Dispare fogos de artifício.\n\n§eReação\n\n§7Reações entusiasmadas e impressionadas ao Fogo de Artifício."
+    },
+    "aizkko": {
+      "title": "Fique na cama de um aldeão",
+      "body": "§eGatilho\n\n§7Fique em uma cama desocupada reivindicada por um aldeão.\n\n§eReação\n\n§7Reclamações sobre você estar na cama deles."
+    },
+    "xqixbl": {
+      "title": "Cutuque um aldeão",
+      "body": "§eGatilho\n\n§7Encontre um aldeão para empurrá-lo levemente.\n\n§eReação\n\n§7Reclamações sobre ser empurrado ou ter seu espaço pessoal invadido."
+    },
+    "uoxaxj": {
+      "title": "Atropelar colheitas",
+      "body": "§eGatilho\n\n§7Salte em Farmland e pise-o de volta na Terra.\n\n§eReação\n\n§7Reações perturbadoras por você atropelar as colheitas."
+    },
+    "pgyqst": {
+      "title": "Coma comida",
+      "body": "§eGatilho\n\n§7Coma comida.\n\n§eReação\n\n§7Perguntas e comentários sobre os alimentos que você ingere."
+    },
+    "sdcrhu": {
+      "title": "Colheita",
+      "body": "§eGatilho\n\n§7Colha uma colheita.\n\n§eReação\n\n§7Acusações de roubar ou tirar colheitas que não são suas."
+    },
+    "tlhrwc": {
+      "title": "Colha colheitas perto de um fazendeiro",
+      "bkltkm": "Colheita perto de um fazendeiro",
+      "body": "§eGatilho\n\n§7Colha uma colheita perto de um fazendeiro aldeão.\n\n§eReação\n\n§7Reclamações mais fortes dos agricultores sobre você estar colhendo suas colheitas."
+    },
+    "xojify": {
+      "title": "Abra um baú",
+      "body": "§eGatilho\n\n§7Abra um baú.\n\n§eReação\n\n§7Comentários curiosos sobre o que você procura no Baú."
+    },
+    "fxiddm": {
+      "title": "Abra um baú na casa de um aldeão",
+      "bkltkm": "Baú aberto na casa deles",
+      "body": "§eGatilho\n\n§7Abra o baú dentro da casa de um aldeão.\n\n§eReação\n\n§7Reações de raiva por você abrir seu próprio baú."
+    },
+    "nguqzg": {
+      "title": "Use um lead",
+      "body": "§eGatilho\n\n§7Anexar um Lead a uma entidade.\n\n§eReação\n\n§7Perguntas e comentários sobre você anexar um Lead a outra entidade."
+    },
+    "zlncsk": {
+      "title": "Fechar uma porta na cara de um aldeão",
+      "bkltkm": "Fechar a porta na cara deles",
+      "body": "§eGatilho\n\n§7Feche uma porta diretamente na frente de um aldeão enquanto ele está tentando passar.\n\n§eReação\n\n§7Reclamações sobre ter a Porta fechada na cara deles."
+    },
+    "xvzuth": {
+      "title": "Caminhada agachada",
+      "body": "§eGatilho\n\n§7Agache-se e mova-se.\n\n§eReação\n\n§7Perguntas e comentários sobre você se esgueirando."
+    },
+    "aikkwp": {
+      "title": "Voe no modo criativo",
+      "body": "§eGatilho\n\n§7Voe no modo criativo.\n\n§eReação\n\n§7Reações confusas ao você voar no Modo Criativo."
+    },
+    "iypzbt": {
+      "title": "Deslize com Elytra",
+      "body": "§eGatilho\n\n§7Deslize com um Elytra.\n\n§eReação\n\n§7Reações de surpresa e curiosidade ao seu voo Elytra."
+    },
+    "locwts": {
+      "title": "Teletransporte com uma Pérola Ender",
+      "bkltkm": "Teleporte com Ender Pearl",
+      "body": "§eGatilho\n\n§7Teleporte-se usando uma Pérola Ender.\n\n§eReação\n\n§7Perguntas de surpresa sobre seu teletransporte repentino."
+    },
+    "xmrxxe": {
+      "title": "Segure um item quase quebrado",
+      "body": "§eGatilho\n\n§7Segure um item muito danificado e de baixa durabilidade.\n\n§eReação\n\n§7Avisos e comentários sobre seu item estar prestes a quebrar."
+    },
+    "mqtbuq": {
+      "title": "Usar Armadura",
+      "body": "§eGatilho\n\n§7Use armadura.\n\n§eReação\n\n§7Comentários gerais sobre a armadura que você está usando."
+    },
+    "jgketq": {
+      "title": "Use armadura de ferro completa",
+      "body": "§eGatilho\n\n§7Use um conjunto completo de Armadura de Ferro.\n\n§eReação\n\n§7Sugestões de que talvez seja hora de atualizar sua Armadura de Ferro."
+    },
+    "ypollb": {
+      "title": "Use armadura mista",
+      "body": "§eGatilho\n\n§7Use um conjunto de armadura incompatível.\n\n§eReação\n\n§7Comentários críticos sobre sua armadura incompatível."
+    },
+    "vniafw": {
+      "title": "Use armadura de alto nível",
+      "body": "§eGatilho\n\n§7Use armadura de alto nível.\n\n§eReação\n\n§7Comentários impressionados sobre sua armadura de alto nível."
+    },
+    "ocrrvy": {
+      "title": "Velocidade",
+      "body": "§eGatilho\n\n§7Tenha a velocidade ativa.\n\n§eReação\n\n§7Comentários sobre o quão incomumente você está se movendo rápido."
+    },
+    "gjutfx": {
+      "title": "Rapidez",
+      "body": "§eGatilho\n\n§7Tenha Rapidez ativa.\n\n§eReação\n\n§7Comentários sobre sua repentina explosão de velocidade."
+    },
+    "vfvcuo": {
+      "title": "Lentidão",
+      "body": "§eGatilho\n\n§7Ter Lentidão ativa.\n\n§eReação\n\n§7Comentários provocativos sobre como você está se movendo lentamente."
+    },
+    "ourflf": {
+      "title": "Força",
+      "body": "§eGatilho\n\n§7Tenha Força ativa.\n\n§eReação\n\n§7Perguntas e comentários sobre seu aumento de Força."
+    },
+    "hxgcsh": {
+      "title": "Fraqueza",
+      "body": "§eGatilho\n\n§7Ter Fraqueza ativa.\n\n§eReação\n\n§7Comentários provocativos e preocupados sobre o quão fraco você parece."
+    },
+    "miadip": {
+      "title": "Invisibilidade",
+      "body": "§eGatilho\n\n§7Ter Invisibilidade ativa.\n\n§eReação\n\n§7Reações confusas por você estar invisível."
+    },
+    "hcnzjg": {
+      "title": "Visão Noturna",
+      "body": "§eGatilho\n\n§7Ter Visão Noturna ativa.\n\n§eReação\n\n§7Perguntas e comentários sobre sua capacidade de enxergar no escuro."
+    },
+    "yokrio": {
+      "title": "Escuridão",
+      "body": "§eGatilho\n\n§7Tenha Escuridão ativa.\n\n§eReação\n\n§7Comentários sobre o efeito Escuridão e sua visão limitada."
+    },
+    "ohogjx": {
+      "title": "Fome",
+      "body": "§eGatilho\n\n§7Ter Fome ativa.\n\n§eReação\n\n§7Comentários preocupados sobre como você parece faminto."
+    },
+    "pzlmly": {
+      "title": "Náusea",
+      "body": "§eGatilho\n\n§7Ter Náusea ativa.\n\n§eReação\n\n§7Comentários preocupados sobre você não estar bem."
+    },
+    "qbwccl": {
+      "title": "Respiração na Água",
+      "body": "§eGatilho\n\n§7Tenha a Respiração na Água ativa.\n\n§eReação\n\n§7Perguntas sobre como você consegue respirar debaixo d’água."
+    },
+    "morlwl": {
+      "title": "Escoando",
+      "body": "§eGatilho\n\n§7Ter Oozing ativo.\n\n§eReação\n\n§7Comentários preocupados sobre o efeito Oozing."
+    },
+    "fmbldk": {
+      "title": "Saúde baixa",
+      "body": "§eGatilho\n\n§7Deixe sua saúde cair.\n\n§eReação\n\n§7Avisos e comentários preocupados sobre sua saúde baixa."
+    },
+    "tlxsoe": {
+      "title": "Vários efeitos de status",
+      "body": "§eGatilho\n\n§7Tenha vários efeitos de status ativos ao mesmo tempo.\n\n§eReação\n\n§7Comentários sobre ter muitos efeitos de status ativos ao mesmo tempo."
+    },
+    "zgbvge": {
+      "title": "Baixa reputação",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tiver uma reputação baixa naquela aldeia.\n\n§eReação\n\n§7Reações de desconfiança e hostilidade à sua má reputação."
+    },
+    "lxdwru": {
+      "title": "Reputação extremamente baixa",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tem uma reputação extremamente baixa naquela aldeia.\n\n§eReação\n\n§7Reações de medo e hostis à sua reputação extremamente baixa."
+    },
+    "kbgdjw": {
+      "title": "Reputação extremamente baixa com uma espada",
+      "bkltkm": "Baixa reputação com espada",
+      "body": "§eGatilho\n\n§7Tem reputação de aldeia extremamente baixa e empunha uma espada.\n\n§eReação\n\n§7Reações alarmadas a um jogador odiado carregando uma espada."
+    },
+    "gaotht": {
+      "title": "Alta reputação",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tiver uma reputação alta naquela aldeia.\n\n§eReação\n\n§7Reações amigáveis e de agradecimento à sua boa reputação."
+    },
+    "rscbfv": {
+      "title": "Reputação extremamente alta",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tem uma reputação extremamente alta naquela aldeia.\n\n§eReação\n\n§7Reações entusiasmadas à sua reputação excepcionalmente boa."
+    },
+    "ogqxux": {
+      "title": "Mau presságio",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tiver Bad Omen.\n\n§eReação\n\n§7Reações alarmadas e desaprovadoras ao efeito Mau Presságio."
+    },
+    "bpwnto": {
+      "title": "Herói da Vila",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão enquanto você tem o Herói da Aldeia.\n\n§eReação\n\n§7Reações de elogios e comemorações ao Herói da Vila."
+    },
+    "kxtnlw": {
+      "title": "Alterar modo de jogo",
+      "body": "§eGatilho\n\n§7Mude seu modo de jogo.\n\n§eReação\n\n§7Comentários confusos quando seu modo de jogo muda."
+    },
+    "ocwzji": {
+      "title": "Mudar para criativo",
+      "body": "§eGatilho\n\n§7Mude para o modo criativo.\n\n§eReação\n\n§7Comentários sobre suas novas habilidades no Modo Criativo, muitas vezes acusando você de trapacear."
+    },
+    "ypqjje": {
+      "title": "Mudar a dificuldade do mundo",
+      "body": "§eGatilho\n\n§7Mude a dificuldade do mundo.\n\n§eReação\n\n§7Reações confusas quando a dificuldade do mundo muda."
+    },
+    "mnrggz": {
+      "title": "Defina a dificuldade como pacífica",
+      "bkltkm": "Definir dificuldade pacífica",
+      "body": "§eGatilho\n\n§7Mude a dificuldade do mundo para pacífica.\n\n§eReação\n\n§7Reações de alívio ou provocação à mudança do mundo para Pacífico."
+    },
+    "udpfrw": {
+      "title": "Definir dificuldade como difícil",
+      "body": "§eGatilho\n\n§7Mude a dificuldade do mundo para Difícil.\n\n§eReação\n\n§7Reações alarmadas ao mudar o mundo para Difícil."
+    },
+    "fvbveg": {
+      "title": "Jogador morre",
+      "body": "§eGatilho\n\n§7Morra onde um aldeão possa testemunhar isso.\n\n§eReação\n\n§7Comentários e piadas sobre testemunhar sua morte."
+    },
+    "izougp": {
+      "title": "Jogador morre novamente",
+      "body": "§eGatilho\n\n§7Morra novamente dentro de 5 minutos após sua morte anterior.\n\n§eReação\n\n§7Comentários extras sobre você morrer novamente em alguns minutos."
+    },
+    "ajpbps": {
+      "title": "Jogador morre em Hardcore",
+      "body": "§eGatilho\n\n§7Morra em um mundo Hardcore onde um aldeão pode testemunhar isso.\n\n§eReação\n\n§7Reações especiais ao ver você morrer permanentemente no Hardcore."
+    },
+    "qlzhbl": {
+      "title": "Jogador acorda",
+      "body": "§eGatilho\n\n§7Durma em uma cama e depois acorde.\n\n§eReação\n\n§7Comentários matinais quando você acorda."
+    },
+    "htvlcc": {
+      "title": "Acorde com armadura",
+      "body": "§eGatilho\n\n§7Acorde de uma cama usando armadura.\n\n§eReação\n\n§7Piadas sobre dormir com armadura."
+    },
+    "uobjwp": {
+      "title": "Quebre um bloco",
+      "body": "§eGatilho\n\n§7Quebrar um bloco.\n\n§eReação\n\n§7Reações de surpresa quando você quebra um bloqueio."
+    },
+    "htpznb": {
+      "title": "Quebre vários blocos",
+      "body": "§eGatilho\n\n§7Quebre vários blocos em rápida sucessão.\n\n§eReação\n\n§7Perguntas e comentários sobre você quebrar vários blocos em rápida sucessão."
+    },
+    "fjhhqp": {
+      "title": "Quebrar Madeira",
+      "body": "§eGatilho\n\n§7Quebrar madeira.\n\n§eReação\n\n§7Reclamações e piadas sobre você quebrar madeira."
+    },
+    "wbbehv": {
+      "title": "Quebrar pedra",
+      "body": "§eGatilho\n\n§7Quebrar Pedra.\n\n§eReação\n\n§7Comentários sobre você quebrar Stone."
+    },
+    "yeiyao": {
+      "title": "Quebre uma porta",
+      "body": "§eGatilho\n\n§7Quebre uma porta.\n\n§eReação\n\n§7Reclamações sobre você quebrar uma porta."
+    },
+    "ngsdoi": {
+      "title": "Quebre uma cama",
+      "body": "§eGatilho\n\n§7Quebre uma cama.\n\n§eReação\n\n§7Reações perturbadoras por você quebrar a cama de um aldeão."
+    },
+    "ibeels": {
+      "title": "Quebre uma estação de trabalho",
+      "body": "§eGatilho\n\n§7Quebre uma estação de trabalho.\n\n§eReação\n\n§7Fortes reclamações sobre você quebrar uma estação de trabalho."
+    },
+    "pgtttn": {
+      "title": "Quebre um sino",
+      "body": "§eGatilho\n\n§7Quebre um sino.\n\n§eReação\n\n§7Reações à remoção do Sino da vila."
+    },
+    "pmgkxf": {
+      "title": "Quebre um bloco decorativo",
+      "body": "§eGatilho\n\n§7Quebre um bloco decorativo.\n\n§eReação\n\n§7Fortes reclamações sobre você quebrar blocos decorativos."
+    },
+    "acrmly": {
+      "title": "Coloque um bloco",
+      "body": "§eGatilho\n\n§7Coloque qualquer bloco.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Bloco."
+    },
+    "cccwtv": {
+      "title": "Coloque uma estação de trabalho",
+      "body": "§eGatilho\n\n§7Coloque uma estação de trabalho.\n\n§eReação\n\n§7Reações a uma estação de trabalho sendo colocada."
+    },
+    "aasuts": {
+      "title": "Coloque uma cama",
+      "body": "§eGatilho\n\n§7Coloque uma cama.\n\n§eReação\n\n§7Observações sobre a colocação de uma cama."
+    },
+    "rphfuu": {
+      "title": "Coloque um baú",
+      "body": "§eGatilho\n\n§7Coloque um baú.\n\n§eReação\n\n§7Comentários sobre a colocação de um baú."
+    },
+    "sjodzj": {
+      "title": "Coloque um baú preso",
+      "body": "§eGatilho\n\n§7Coloque um baú com armadilha.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Baú com Armadilha."
+    },
+    "evnryo": {
+      "title": "Coloque uma mesa de artesanato",
+      "body": "§eGatilho\n\n§7Coloque uma mesa de artesanato.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de uma Mesa de Artesanato."
+    },
+    "debrib": {
+      "title": "Coloque um forno",
+      "body": "§eGatilho\n\n§7Coloque uma fornalha.\n\n§eReação\n\n§7Comentários sobre um forno sendo colocado."
+    },
+    "dbvgfr": {
+      "title": "Coloque uma estante",
+      "body": "§eGatilho\n\n§7Coloque uma estante.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de uma estante."
+    },
+    "xvvfqm": {
+      "title": "Coloque uma Jukebox",
+      "body": "§eGatilho\n\n§7Coloque uma Jukebox.\n\n§eReação\n\n§7Observações sobre a colocação de uma Jukebox."
+    },
+    "crxrtm": {
+      "title": "Coloque um suporte de armadura",
+      "body": "§eGatilho\n\n§7Coloque um suporte de armadura.\n\n§eReação\n\n§7Comentários sobre a colocação de um suporte de armadura."
+    },
+    "shsyqc": {
+      "title": "Coloque um farol",
+      "body": "§eGatilho\n\n§7Coloque um farol.\n\n§eReação\n\n§7Reações a um Beacon sendo colocado."
+    },
+    "uvhvdf": {
+      "title": "Coloque Madeira",
+      "body": "§eGatilho\n\n§7Coloque Madeira.\n\n§eReação\n\n§7Observações sobre a colocação de madeira."
+    },
+    "ghxvhc": {
+      "title": "Coloque sujeira",
+      "body": "§eGatilho\n\n§7Coloque sujeira.\n\n§eReação\n\n§7Comentários sobre sujeira sendo colocada."
+    },
+    "njncif": {
+      "title": "Coloque folhas ou plantas",
+      "body": "§eGatilho\n\n§7Coloque folhas ou plantas.\n\n§eReação\n\n§7Reações a folhas ou plantas colocadas."
+    },
+    "ncxsjl": {
+      "title": "Coloque Lã",
+      "body": "§eGatilho\n\n§7Coloque Lã.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de Lã."
+    },
+    "vtjvaq": {
+      "title": "Coloque o vidro",
+      "body": "§eGatilho\n\n§7Coloque o vidro.\n\n§eReação\n\n§7Reações de surpresa ao Glass ser colocado."
+    },
+    "qblddu": {
+      "title": "Coloque tijolos",
+      "body": "§eGatilho\n\n§7Coloque os tijolos.\n\n§eReação\n\n§7Reações aos tijolos sendo colocados."
+    },
+    "xghpvh": {
+      "title": "Colocar concreto",
+      "body": "§eGatilho\n\n§7Coloque concreto.\n\n§eReação\n\n§7Observações sobre o lançamento do concreto."
+    },
+    "eplcec": {
+      "title": "Lugar Terracota",
+      "body": "§eGatilho\n\n§7Coloque Terracota.\n\n§eReação\n\n§7Comentários sobre a colocação de terracota."
+    },
+    "dnvqbq": {
+      "title": "Coloque terracota vitrificada",
+      "body": "§eGatilho\n\n§7Coloque terracota vitrificada.\n\n§eReação\n\n§7Reações à colocação de terracota vitrificada."
+    },
+    "ltgdxr": {
+      "title": "Coloque um bloco valioso",
+      "body": "§eGatilho\n\n§7Coloque um bloco mineral valioso, como Ferro, Ouro, Diamante ou Esmeralda.\n\n§eReação\n\n§7Observações sobre a colocação de um Bloco Valioso."
+    },
+    "ccdkmm": {
+      "title": "Coloque um bloco de cobre",
+      "body": "§eGatilho\n\n§7Coloque um bloco de cobre.\n\n§eReação\n\n§7Comentários sobre a colocação de um Bloco de Cobre."
+    },
+    "fzovhb": {
+      "title": "Coloque um bloco de ferro",
+      "body": "§eGatilho\n\n§7Coloque um Bloco de Ferro.\n\n§eReação\n\n§7Reações a um Bloco de Ferro sendo colocado."
+    },
+    "aklnyx": {
+      "title": "Coloque um bloco de ouro",
+      "body": "§eGatilho\n\n§7Coloque um Bloco Dourado.\n\n§eReação\n\n§7Reações de surpresa ao colocar um bloco de ouro."
+    },
+    "vsrern": {
+      "title": "Coloque um bloco de diamante",
+      "body": "§eGatilho\n\n§7Coloque um bloco de diamante.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Bloco de Diamante."
+    },
+    "psttvx": {
+      "title": "Coloque um bloco de esmeralda",
+      "body": "§eGatilho\n\n§7Coloque um Bloco de Esmeralda.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Bloco de Esmeralda."
+    },
+    "aojiol": {
+      "title": "Coloque um bloco de lápis-lazúli",
+      "body": "§eGatilho\n\n§7Coloque um bloco de lápis-lazúli.\n\n§eReação\n\n§7Observações sobre a colocação de um bloco de lápis-lazúli."
+    },
+    "gbmypu": {
+      "title": "Construa uma estrutura de Golem de Ferro",
+      "body": "§eGatilho\n\n§7Coloque blocos de ferro na estrutura em forma de T usada para construir um Golem de Ferro.\n\n§eReação\n\n§7Comentários sobre você construir uma Estrutura de Golem de Ferro."
+    },
+    "zsnrth": {
+      "title": "Coloque uma abóbora",
+      "body": "§eGatilho\n\n§7Coloque uma abóbora.\n\n§eReação\n\n§7Reações a uma abóbora sendo colocada."
+    },
+    "poruvv": {
+      "title": "Coloque uma Jack o'Lantern",
+      "body": "§eGatilho\n\n§7Coloque uma Jack o'Lantern.\n\n§eReação\n\n§7Reações de surpresa ao colocar uma Jack o'Lantern."
+    },
+    "ntcrou": {
+      "title": "Coloque um melão",
+      "body": "§eGatilho\n\n§7Coloque um melão.\n\n§eReação\n\n§7Comentários sobre um melão sendo colocado."
+    },
+    "srrcaz": {
+      "title": "Coloque gelo",
+      "body": "§eGatilho\n\n§7Coloque gelo.\n\n§eReação\n\n§7Reações ao gelo sendo colocado."
+    },
+    "avpopy": {
+      "title": "Coloque neve",
+      "body": "§eGatilho\n\n§7Coloque neve.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de neve."
+    },
+    "sxztpe": {
+      "title": "Coloque neve em pó",
+      "body": "§eGatilho\n\n§7Coloque neve em pó.\n\n§eReação\n\n§7Comentários sobre neve em pó sendo colocada."
+    },
+    "iallxh": {
+      "title": "Coloque um bloco afetado pela gravidade",
+      "bkltkm": "Coloque um bloco caindo",
+      "body": "§eGatilho\n\n§7Coloque um bloco afetado pela gravidade, como areia ou cascalho.\n\n§eReação\n\n§7Reações a um bloco afetado pela gravidade sendo colocado."
+    },
+    "akmaic": {
+      "title": "Coloque pó de concreto",
+      "body": "§eGatilho\n\n§7Coloque pó de concreto.\n\n§eReação\n\n§7Dúvidas e comentários sobre a colocação de Pó de Concreto."
+    },
+    "gxvvcx": {
+      "title": "Coloque um quarteirão do oceano",
+      "bkltkm": "Coloque um bloco oceânico",
+      "body": "§eGatilho\n\n§7Coloque um bloco com tema oceânico.\n\n§eReação\n\n§7Comentários sobre a colocação de um Bloco do Oceano."
+    },
+    "znhnrj": {
+      "title": "Coloque um bloco do Nether",
+      "bkltkm": "Coloque um bloco inferior",
+      "body": "§eGatilho\n\n§7Coloque um bloco do Nether.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Bloco do Nether."
+    },
+    "gzzrru": {
+      "title": "Coloque um bloco no final",
+      "bkltkm": "Coloque um bloco final",
+      "body": "§eGatilho\n\n§7Coloque um bloco no final.\n\n§eReação\n\n§7Observações sobre a colocação de um Bloco do Fim."
+    },
+    "mommql": {
+      "title": "Coloque a pedra final",
+      "body": "§eGatilho\n\n§7Coloque a Pedra Final.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação da Pedra Final."
+    },
+    "wvkifl": {
+      "title": "Lugar Púrpura",
+      "body": "§eGatilho\n\n§7Local Púrpura.\n\n§eReação\n\n§7Reações ao Púrpura sendo colocadas."
+    },
+    "semzce": {
+      "title": "Coloque um botão",
+      "body": "§eGatilho\n\n§7Coloque um botão.\n\n§eReação\n\n§7Observações sobre a colocação de um botão."
+    },
+    "tomzhj": {
+      "title": "Coloque uma alavanca",
+      "body": "§eGatilho\n\n§7Coloque uma alavanca.\n\n§eReação\n\n§7Reações de surpresa ao colocar uma alavanca."
+    },
+    "mtcrvt": {
+      "title": "Coloque um bloco somente criativo",
+      "bkltkm": "Colocar bloco somente criativo",
+      "body": "§eGatilho\n\n§7Coloque um Bloco que normalmente só está disponível através do Modo Criativo ou comandos.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um bloqueio somente criativo."
+    },
+    "onklfs": {
+      "title": "Coloque um bloco de luz",
+      "body": "§eGatilho\n\n§7Coloque um bloco de luz.\n\n§eReação\n\n§7Reações de surpresa ao colocar um bloco de luz."
+    },
+    "vlpetg": {
+      "title": "Use uma mesa de artesanato",
+      "body": "§eGatilho\n\n§7Use uma mesa de artesanato.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar uma mesa de artesanato."
+    },
+    "zjcgcv": {
+      "title": "Use um forno",
+      "body": "§eGatilho\n\n§7Use um forno.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar um forno."
+    },
+    "hadzei": {
+      "title": "Use uma bigorna",
+      "body": "§eGatilho\n\n§7Use uma bigorna.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar uma bigorna."
+    },
+    "zwzxmf": {
+      "title": "Use uma mesa encantadora",
+      "body": "§eGatilho\n\n§7Use uma mesa encantadora.\n\n§eReação\n\n§7Reações de surpresa por você usar uma Mesa Encantadora."
+    },
+    "ufwcyb": {
+      "title": "Use um suporte de cerveja",
+      "body": "§eGatilho\n\n§7Use um suporte para preparo de cerveja.\n\n§eReação\n\n§7Reações ao usar uma Barraca de Cerveja."
+    },
+    "btpdcq": {
+      "title": "Use uma pedra de amolar",
+      "body": "§eGatilho\n\n§7Use uma pedra de amolar.\n\n§eReação\n\n§7Observações e perguntas sobre você usando um rebolo."
+    },
+    "mviepv": {
+      "title": "Use uma mesa de metalurgia",
+      "body": "§eGatilho\n\n§7Use uma Mesa de Metalurgia.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar uma Mesa de Metalurgia."
+    },
+    "sptjpu": {
+      "title": "Use um cortador de pedra",
+      "body": "§eGatilho\n\n§7Use um cortador de pedra.\n\n§eReação\n\n§7Reações a você usando um Stonecutter."
+    },
+    "rkorgz": {
+      "title": "Use um tear",
+      "body": "§eGatilho\n\n§7Use um tear.\n\n§eReação\n\n§7Observações e perguntas sobre você usar um Tear."
+    },
+    "lvkuro": {
+      "title": "Use uma mesa de cartografia",
+      "body": "§eGatilho\n\n§7Use uma mesa de cartografia.\n\n§eReação\n\n§7Comentários sobre você usar uma Mesa de Cartografia."
+    },
+    "kgrhki": {
+      "title": "Use um compostor",
+      "body": "§eGatilho\n\n§7Use um compostor.\n\n§eReação\n\n§7Reações a você usando um Composter."
+    },
+    "rmiphb": {
+      "title": "Use um farol",
+      "body": "§eGatilho\n\n§7Use um farol.\n\n§eReação\n\n§7Observações e perguntas sobre você usar um Beacon."
+    },
+    "jikwve": {
+      "title": "Use um caldeirão",
+      "body": "§eGatilho\n\n§7Use um Caldeirão.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar um Caldeirão."
+    },
+    "iwqjes": {
+      "title": "Use uma jukebox",
+      "body": "§eGatilho\n\n§7Use uma Jukebox.\n\n§eReação\n\n§7Reações ao você usar uma Jukebox."
+    },
+    "davdrk": {
+      "title": "Use uma estante cinzelada",
+      "body": "§eGatilho\n\n§7Use uma estante cinzelada.\n\n§eReação\n\n§7Observações e perguntas sobre você usando uma estante cinzelada."
+    },
+    "yuhode": {
+      "title": "Use prateleiras",
+      "body": "§eGatilho\n\n§7Use prateleiras.\n\n§eReação\n\n§7Comentários sobre você usar estantes."
+    },
+    "wlsevb": {
+      "title": "Use um baú Ender",
+      "body": "§eGatilho\n\n§7Use um baú Ender.\n\n§eReação\n\n§7Reações ao usar um Baú Ender."
+    },
+    "pubdqg": {
+      "title": "Use uma caixa Shulker",
+      "body": "§eGatilho\n\n§7Use uma caixa Shulker.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar uma Shulker Box."
+    },
+    "szqrfs": {
+      "title": "Use um artesão",
+      "body": "§eGatilho\n\n§7Use um Artesão.\n\n§eReação\n\n§7Perguntas e comentários sobre você usar um Crafter."
+    },
+    "ruiciv": {
+      "title": "Use um dispensador",
+      "body": "§eGatilho\n\n§7Use um dispensador.\n\n§eReação\n\n§7Reações ao usar um Dispenser."
+    },
+    "ouodrw": {
+      "title": "Use um conta-gotas",
+      "body": "§eGatilho\n\n§7Use um conta-gotas.\n\n§eReação\n\n§7Observações e perguntas sobre você usar um conta-gotas."
+    },
+    "vhsixb": {
+      "title": "Use uma porta",
+      "body": "§eGatilho\n\n§7Use uma porta.\n\n§eReação\n\n§7Comentários sobre você usar uma porta."
+    },
+    "ugskle": {
+      "title": "Abra um portão de cerca",
+      "body": "§eGatilho\n\n§7Abra um portão de cerca.\n\n§eReação\n\n§7Reações quando você abre um portão de cerca."
+    },
+    "wdphnq": {
+      "title": "Fechar um portão de cerca",
+      "body": "§eGatilho\n\n§7Feche um portão de cerca.\n\n§eReação\n\n§7Observações e perguntas sobre você fechar um portão de vedação."
+    },
+    "qzidzv": {
+      "title": "Pressione um botão",
+      "body": "§eGatilho\n\n§7Pressione um botão.\n\n§eReação\n\n§7Reações de surpresa quando você pressiona um botão."
+    },
+    "kxcwjt": {
+      "title": "Vire uma alavanca",
+      "body": "§eGatilho\n\n§7Mova uma alavanca.\n\n§eReação\n\n§7Perguntas e comentários sobre como você acionou uma alavanca."
+    },
+    "kyagvq": {
+      "title": "Ouça um sino tocar",
+      "body": "§eGatilho\n\n§7Toque um sino perto o suficiente para que um aldeão ouça.\n\n§eReação\n\n§7Observações e dúvidas sobre toque de campainha."
+    },
+    "calusv": {
+      "title": "Esculpir uma abóbora",
+      "body": "§eGatilho\n\n§7Esculpa uma abóbora.\n\n§eReação\n\n§7Comentários sobre você esculpindo uma abóbora."
+    },
+    "empobh": {
+      "title": "Coloque um componente Redstone",
+      "bkltkm": "Colocar componente Redstone",
+      "body": "§eGatilho\n\n§7Coloque um componente Redstone.\n\n§eReação\n\n§7Reações a um componente Redstone sendo colocado."
+    },
+    "ojrfsf": {
+      "title": "Coloque pó de Redstone",
+      "body": "§eGatilho\n\n§7Coloque pó de Redstone.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de Redstone Dust."
+    },
+    "abisxc": {
+      "title": "Coloque uma tocha Redstone",
+      "body": "§eGatilho\n\n§7Coloque uma tocha Redstone.\n\n§eReação\n\n§7Comentários sobre uma tocha Redstone sendo colocada."
+    },
+    "zlicva": {
+      "title": "Coloque um repetidor Redstone",
+      "body": "§eGatilho\n\n§7Coloque um repetidor Redstone.\n\n§eReação\n\n§7Reações ao posicionamento de um repetidor Redstone."
+    },
+    "lfvwfp": {
+      "title": "Coloque uma lâmpada Redstone",
+      "body": "§eGatilho\n\n§7Coloque uma lâmpada Redstone.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de uma lâmpada Redstone."
+    },
+    "zywqpb": {
+      "title": "Coloque um observador",
+      "body": "§eGatilho\n\n§7Coloque um Observador.\n\n§eReação\n\n§7Perguntas e comentários sobre a colocação de um Observador."
+    },
+    "hfwljv": {
+      "title": "Coloque uma placa de pressão",
+      "body": "§eGatilho\n\n§7Coloque uma placa de pressão.\n\n§eReação\n\n§7Reações a uma placa de pressão sendo colocada."
+    },
+    "ovtfxr": {
+      "title": "Coloque um detector de luz solar",
+      "body": "§eGatilho\n\n§7Coloque um detector de luz solar.\n\n§eReação\n\n§7Observações sobre a colocação de um Detector de Luz Natural."
+    },
+    "erehvv": {
+      "title": "Coloque um sensor Sculk",
+      "body": "§eGatilho\n\n§7Coloque um sensor Sculk.\n\n§eReação\n\n§7Comentários sobre a colocação de um Sensor Sculk."
+    },
+    "yeckfv": {
+      "title": "Coloque um gancho Tripwire",
+      "body": "§eGatilho\n\n§7Coloque um gancho Tripwire.\n\n§eReação\n\n§7Reações a um gancho Tripwire sendo colocado."
+    },
+    "syefrr": {
+      "title": "Coloque um trilho detector",
+      "body": "§eGatilho\n\n§7Coloque um trilho detector.\n\n§eReação\n\n§7Observações sobre a colocação de um trilho detector."
+    },
+    "hvesoo": {
+      "title": "Coloque um pára-raios",
+      "body": "§eGatilho\n\n§7Coloque um pára-raios.\n\n§eReação\n\n§7Comentários sobre a colocação de um Pára-raios."
+    },
+    "thbvvu": {
+      "title": "Veja uma fogueira",
+      "body": "§eGatilho\n\n§7Tenha uma fogueira por perto.\n\n§eReação\n\n§7Comentários e observações sobre uma fogueira próxima."
+    },
+    "adbyme": {
+      "title": "Acenda uma fogueira",
+      "body": "§eGatilho\n\n§7Acenda uma fogueira.\n\n§eReação\n\n§7Reações quando você acende uma fogueira."
+    },
+    "gaxwor": {
+      "title": "Use uma fogueira",
+      "body": "§eGatilho\n\n§7Interaja com uma fogueira.\n\n§eReação\n\n§7Comentários sobre você interagindo com uma fogueira."
+    },
+    "zpyfem": {
+      "title": "Cozinhe comida em uma fogueira",
+      "body": "§eGatilho\n\n§7Coloque a comida em uma fogueira para cozinhar.\n\n§eReação\n\n§7Comentários sobre você cozinhar comida em uma fogueira."
+    },
+    "gmaszd": {
+      "title": "Apague uma fogueira",
+      "body": "§eGatilho\n\n§7Apagar uma fogueira.\n\n§eReação\n\n§7Reações quando você apaga uma fogueira."
+    },
+    "txuikb": {
+      "title": "Acenda uma vela",
+      "body": "§eGatilho\n\n§7Acenda uma vela.\n\n§eReação\n\n§7Comentários sobre você acender uma vela."
+    },
+    "icizyu": {
+      "title": "Apague uma vela",
+      "body": "§eGatilho\n\n§7Apague uma vela.\n\n§eReação\n\n§7Comentários sobre você apagar uma vela."
+    },
+    "cdkbjz": {
+      "title": "TNT leve",
+      "body": "§eGatilho\n\n§7Acenda TNT.\n\n§eReação\n\n§7Reações alarmadas quando você acende TNT."
+    },
+    "ywysck": {
+      "title": "Zumbi",
+      "body": "§eGatilho\n\n§7Traga um Zumbi para perto.\n\n§eReação\n\n§7Comentários alarmados e piadas sobre o Zumbi próximo."
+    },
+    "zwifoa": {
+      "title": "Aldeão Zumbi",
+      "body": "§eGatilho\n\n§7Traga um aldeão zumbi por perto.\n\n§eReação\n\n§7Reações de preocupação ao ver um aldeão zumbi."
+    },
+    "gjpkeg": {
+      "title": "Porquinho Zumbi",
+      "body": "§eGatilho\n\n§7Traga um Piglin Zumbi por perto.\n\n§eReação\n\n§7Comentários cautelosos sobre o Zombie Piglin próximo."
+    },
+    "nbsaxv": {
+      "title": "Casca",
+      "body": "§eGatilho\n\n§7Traga uma casca por perto.\n\n§eReação\n\n§7Piadas e comentários confusos sobre o Zumbi do deserto."
+    },
+    "dicjeb": {
+      "title": "Afogado",
+      "body": "§eGatilho\n\n§7Traga um Afogado por perto.\n\n§eReação\n\n§7Reações alarmadas aos Afogados."
+    },
+    "ddxnia": {
+      "title": "Esqueleto",
+      "body": "§eGatilho\n\n§7Traga um esqueleto por perto.\n\n§eReação\n\n§7Piadas nervosas e perguntas sobre o Esqueleto."
+    },
+    "gvhqxe": {
+      "title": "Perdido",
+      "body": "§eGatilho\n\n§7Traga um vira-lata por perto.\n\n§eReação\n\n§7Reações cautelosas ao Stray."
+    },
+    "bzearw": {
+      "title": "Atolado",
+      "body": "§eGatilho\n\n§7Traga um Bogged por perto.\n\n§eReação\n\n§7Comentários confusos sobre o Bogged."
+    },
+    "izijvw": {
+      "title": "Aranha",
+      "body": "§eGatilho\n\n§7Traga uma aranha por perto.\n\n§eReação\n\n§7Perguntas nervosas sobre o Aranha."
+    },
+    "monaof": {
+      "title": "Lodo",
+      "body": "§eGatilho\n\n§7Traga um Slime por perto.\n\n§eReação\n\n§7Reações curiosas e cautelosas ao Slime."
+    },
+    "jehkar": {
+      "title": "creeper",
+      "body": "§eGatilho\n\n§7Traga um Creeper por perto.\n\n§eReação\n\n§7Reações alarmadas ao Creeper."
+    },
+    "kvknbc": {
+      "title": "Bruxa",
+      "body": "§eGatilho\n\n§7Traga uma bruxa por perto.\n\n§eReação\n\n§7Comentários suspeitos e alarmados sobre a Bruxa."
+    },
+    "ogoseo": {
+      "title": "Enderman",
+      "body": "§eGatilho\n\n§7Traga um Enderman por perto.\n\n§eReação\n\n§7Perguntas nervosas sobre o Enderman."
+    },
+    "ckvjwz": {
+      "title": "Fantasma",
+      "body": "§eGatilho\n\n§7Traga um Fantasma por perto.\n\n§eReação\n\n§7Reações alarmadas ao Fantasma."
+    },
+    "soxhmp": {
+      "title": "Jóquei",
+      "body": "§eGatilho\n\n§7Traga um Jóquei por perto.\n\n§eReação\n\n§7Reações confusas ao Jockey incomum."
+    },
+    "acdgcf": {
+      "title": "Rangendo",
+      "body": "§eGatilho\n\n§7Traga um rangido por perto.\n\n§eReação\n\n§7Comentários e perguntas desconfortáveis sobre o Rangido."
+    },
+    "hvxott": {
+      "title": "Diretor",
+      "body": "§eGatilho\n\n§7Traga um Diretor por perto.\n\n§eReação\n\n§7Reações de medo ao Diretor."
+    },
+    "gzvykb": {
+      "title": "Murchar",
+      "body": "§eGatilho\n\n§7Traga um Wither por perto.\n\n§eReação\n\n§7Reações alarmadas ao Wither."
+    },
+    "nvjkdf": {
+      "title": "Dragão Ender",
+      "body": "§eGatilho\n\n§7Traga um Dragão Ender por perto.\n\n§eReação\n\n§7Reações de espanto e alarme ao Dragão Ender."
+    },
+    "dsowvm": {
+      "title": "Vaca",
+      "body": "§eGatilho\n\n§7Traga uma vaca por perto.\n\n§eReação\n\n§7Observações e piadas sobre a vaca próxima."
+    },
+    "zujnaz": {
+      "title": "Porco",
+      "body": "§eGatilho\n\n§7Traga um porco por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Porco próximo."
+    },
+    "pvpvor": {
+      "title": "ovelha",
+      "body": "§eGatilho\n\n§7Traga uma ovelha por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre a ovelha próxima."
+    },
+    "ofyvbj": {
+      "title": "Ovelha tosquiada",
+      "body": "§eGatilho\n\n§7Traga uma ovelha tosquiada por perto.\n\n§eReação\n\n§7Observações e piadas sobre a ovelha tosquiada próxima."
+    },
+    "qdwjqw": {
+      "title": "Frango",
+      "body": "§eGatilho\n\n§7Traga uma galinha por perto.\n\n§eReação\n\n§7Observações e piadas sobre a Galinha próxima."
+    },
+    "eecrik": {
+      "title": "Gato",
+      "body": "§eGatilho\n\n§7Traga um gato por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o vizinho Cat."
+    },
+    "btutkc": {
+      "title": "Lobo",
+      "body": "§eGatilho\n\n§7Traga um Lobo por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o próximo Lobo."
+    },
+    "cadqmt": {
+      "title": "Lobo domesticado",
+      "body": "§eGatilho\n\n§7Traga um Lobo Domado para perto.\n\n§eReação\n\n§7Comentários amigáveis sobre o próximo Lobo Domado."
+    },
+    "ofqlxi": {
+      "title": "Abelha",
+      "body": "§eGatilho\n\n§7Traga uma abelha por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o Bee próximo."
+    },
+    "ghtwuh": {
+      "title": "Abelha irritada",
+      "body": "§eGatilho\n\n§7Traga uma abelha irritada por perto.\n\n§eReação\n\n§7Reações cautelosas e alarmadas ao Angry Bee próximo."
+    },
+    "rudkjk": {
+      "title": "Cavalo",
+      "body": "§eGatilho\n\n§7Traga um cavalo por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Cavalo próximo."
+    },
+    "wnlwtv": {
+      "title": "Lhama",
+      "body": "§eGatilho\n\n§7Traga uma lhama por perto.\n\n§eReação\n\n§7Observações e piadas sobre a lhama próxima."
+    },
+    "cnyuyy": {
+      "title": "Coelho",
+      "body": "§eGatilho\n\n§7Traga um coelho por perto.\n\n§eReação\n\n§7Reações curiosas e divertidas ao Coelho próximo."
+    },
+    "dnnskx": {
+      "title": "Sapo",
+      "body": "§eGatilho\n\n§7Traga um sapo por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o sapo próximo."
+    },
+    "qgiwjy": {
+      "title": "Peixe",
+      "body": "§eGatilho\n\n§7Traga um peixe por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Peixe próximo."
+    },
+    "wbrwxf": {
+      "title": "Golfinho",
+      "body": "§eGatilho\n\n§7Traga um golfinho por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Golfinho próximo."
+    },
+    "ilpdpi": {
+      "title": "Tartaruga",
+      "body": "§eGatilho\n\n§7Traga uma tartaruga por perto.\n\n§eReação\n\n§7Observações e piadas sobre a Tartaruga próxima."
+    },
+    "wtvhjo": {
+      "title": "panda",
+      "body": "§eGatilho\n\n§7Traga um Panda por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o próximo Panda."
+    },
+    "gjmdax": {
+      "title": "Urso polar",
+      "body": "§eGatilho\n\n§7Traga um urso polar por perto.\n\n§eReação\n\n§7Observações e piadas sobre o vizinho Urso Polar."
+    },
+    "ntxojc": {
+      "title": "Papagaio",
+      "body": "§eGatilho\n\n§7Traga um papagaio por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o próximo Papagaio."
+    },
+    "ksbueu": {
+      "title": "Camelo",
+      "body": "§eGatilho\n\n§7Traga um camelo por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Camelo próximo."
+    },
+    "htzyid": {
+      "title": "Morcego",
+      "body": "§eGatilho\n\n§7Traga um morcego por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o Morcego próximo."
+    },
+    "styyxu": {
+      "title": "Farejador",
+      "body": "§eGatilho\n\n§7Traga um Sniffer por perto.\n\n§eReação\n\n§7Observações e piadas sobre o Sniffer próximo."
+    },
+    "rydlhe": {
+      "title": "Vaca bebê",
+      "body": "§eGatilho\n\n§7Traga um filhote de vaca por perto.\n\n§eReação\n\n§7Reações curiosas e divertidas à Baby Cow próxima."
+    },
+    "aiickj": {
+      "title": "Bebê Porco",
+      "body": "§eGatilho\n\n§7Traga um porquinho por perto.\n\n§eReação\n\n§7Reações curiosas e divertidas ao Porquinho Bebê que está por perto."
+    },
+    "vxrqgc": {
+      "title": "Bebê ovelha",
+      "body": "§eGatilho\n\n§7Traga um filhote de ovelha por perto.\n\n§eReação\n\n§7Comentários divertidos sobre o bebê ovelha próximo."
+    },
+    "zgximm": {
+      "title": "Frango bebê",
+      "body": "§eGatilho\n\n§7Traga um filhote de frango por perto.\n\n§eReação\n\n§7Comentários divertidos sobre o Baby Chicken que está por perto."
+    },
+    "jjwooe": {
+      "title": "Bebê gato",
+      "body": "§eGatilho\n\n§7Traga um gatinho por perto.\n\n§eReação\n\n§7Comentários divertidos sobre o gatinho bebê que está por perto."
+    },
+    "fvxbnw": {
+      "title": "bebê lobo",
+      "body": "§eGatilho\n\n§7Traga um filhote de lobo por perto.\n\n§eReação\n\n§7Reações curiosas e divertidas ao vizinho Bebê Lobo."
+    },
+    "acmtgu": {
+      "title": "Filhote de lobo domesticado",
+      "body": "§eGatilho\n\n§7Traga um filhote de lobo domesticado para perto.\n\n§eReação\n\n§7Comentários amigáveis sobre o vizinho Bebê Lobo Domado."
+    },
+    "ovdzdr": {
+      "title": "Cavalo bebê",
+      "body": "§eGatilho\n\n§7Traga um cavalo bebê por perto.\n\n§eReação\n\n§7Perguntas e comentários curiosos sobre o vizinho Baby Horse."
+    },
+    "klstjc": {
+      "title": "Bebê Panda",
+      "body": "§eGatilho\n\n§7Traga um Bebê Panda por perto.\n\n§eReação\n\n§7Reações curiosas e divertidas ao Bebê Panda que está por perto."
+    },
+    "iyqkjx": {
+      "title": "Abelha bebê",
+      "body": "§eGatilho\n\n§7Traga uma Baby Bee por perto.\n\n§eReação\n\n§7Comentários divertidos sobre a Baby Bee que está por perto."
+    },
+    "fwzfhm": {
+      "title": "Bebê Zumbi",
+      "body": "§eGatilho\n\n§7Traga um Bebê Zumbi por perto.\n\n§eReação\n\n§7Reações de alarme e surpresa ao Bebê Zumbi próximo."
+    },
+    "ccyihx": {
+      "title": "Bebê Zumbi Aldeão",
+      "body": "§eGatilho\n\n§7Traga um bebê zumbi aldeão por perto.\n\n§eReação\n\n§7Reações de alarme e surpresa ao vizinho Baby Zombie Villager."
+    },
+    "zmnnuw": {
+      "title": "Bebê Zumbi Porquinho",
+      "body": "§eGatilho\n\n§7Traga um Baby Zombie Piglin por perto.\n\n§eReação\n\n§7Reações de alarme e surpresa ao vizinho Baby Zombie Piglin."
+    },
+    "jksdxg": {
+      "title": "Casca de bebê",
+      "body": "§eGatilho\n\n§7Traga um Baby Husk por perto.\n\n§eReação\n\n§7Reações de alarme e surpresa ao Baby Husk próximo."
+    },
+    "byndof": {
+      "title": "Bebê afogado",
+      "body": "§eGatilho\n\n§7Traga um bebê afogado por perto.\n\n§eReação\n\n§7Reações de alarme e surpresa ao Bebê Afogado próximo."
+    },
+    "khrmtr": {
+      "title": "Golem de Ferro",
+      "body": "§eGatilho\n\n§7Traga um Golem de Ferro para perto.\n\n§eReação\n\n§7Comentários tranquilizadores e impressionados sobre o Golem de Ferro."
+    },
+    "xvzalq": {
+      "title": "Golem de Ferro tem como alvo o jogador",
+      "bkltkm": "Golem tem como alvo o jogador",
+      "body": "§eGatilho\n\n§7Faça com que um Golem de Ferro atinja você.\n\n§eReação\n\n§7Reações de preocupação quando o Golem de Ferro da vila tem como alvo você."
+    },
+    "sahinp": {
+      "title": "Golem de neve",
+      "body": "§eGatilho\n\n§7Traga um Golem de Neve por perto.\n\n§eReação\n\n§7Comentários e piadas sobre o Golem de Neve."
+    },
+    "itilin": {
+      "title": "Golem de Cobre",
+      "body": "§eGatilho\n\n§7Traga um Golem de Cobre para perto.\n\n§eReação\n\n§7Reações curiosas ao Golem de Cobre."
+    },
+    "pspbfa": {
+      "title": "Acalmar",
+      "body": "§eGatilho\n\n§7Traga um Allay por perto.\n\n§eReação\n\n§7Comentários curiosos e amigáveis sobre o Allay."
+    },
+    "dylzjm": {
+      "title": "Feliz Fantasma",
+      "body": "§eGatilho\n\n§7Traga um Happy Ghast por perto.\n\n§eReação\n\n§7Reações de surpresa ao Happy Ghast."
+    },
+    "znojer": {
+      "title": "Cubo de Enxofre",
+      "body": "§eGatilho\n\n§7Traga um Cubo de Enxofre por perto.\n\n§eReação\n\n§7Reações confusas e curiosas ao Cubo de Enxofre."
+    },
+    "sgemeg": {
+      "title": "Veja uma multidão desconhecida",
+      "body": "§eGatilho\n\n§7Traga uma entidade que caia no substituto de criatura desconhecida do complemento nas proximidades.\n\n§eReação\n\n§7Reações genéricas confusas a uma multidão não reconhecida."
+    },
+    "pvjeni": {
+      "title": "Aldeão vagando",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear durante sua programação normal.\n\n§eReação\n\n§7Conversa geral enquanto anda por aí."
+    },
+    "xceixu": {
+      "title": "Aldeão desempregado vagando",
+      "bkltkm": "Aldeão desempregado",
+      "body": "§eGatilho\n\n§7Deixe um aldeão desempregado vagar por aí sem profissão.\n\n§eReação\n\n§7Comentários ociosos sobre estar desempregado e não ter posto de trabalho."
+    },
+    "vleydn": {
+      "title": "Idiota vagando",
+      "body": "§eGatilho\n\n§7Deixe um aldeão idiota vagar por aí.\n\n§eReação\n\n§7 Conversa errante específica do Nitwit."
+    },
+    "hbgdpp": {
+      "title": "Arranje um emprego",
+      "body": "§eGatilho\n\n§7Coloque um bloco de local de trabalho não reivindicado perto de um aldeão adulto desempregado para que ele possa reivindicar uma profissão.\n\n§eReação\n\n§7Reações ao conquistar uma nova profissão."
+    },
+    "etnojf": {
+      "title": "Comece a trabalhar",
+      "body": "§eGatilho\n\n§7Permitir que um aldeão empregado chegue ao bloco do local de trabalho quando o período de trabalho começar.\n\n§eReação\n\n§7Conversas durante o dia de trabalho sobre como iniciar o trabalho e reabastecer as negociações."
+    },
+    "bnpthv": {
+      "title": "Fique perto de uma estação de trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão empregado trabalhar ao lado do bloco do local de trabalho reivindicado.\n\n§eReação\n\n§7Comentários gerais ao estar perto de uma estação de trabalho."
+    },
+    "gqnmwh": {
+      "title": "Agricultor no Trabalho",
+      "body": "§eGatilho\n\n§7Deixe um Fazendeiro Aldeão trabalhar ao lado de seu Compostor.\n\n§eReação\n\n§7Conversas de trabalho específicas do agricultor em sua estação de trabalho."
+    },
+    "iqlueh": {
+      "title": "Pescador no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um Aldeão Pescador trabalhar ao lado de seu Barril.\n\n§eReação\n\n§7Conversas de trabalho específicas de pescadores em suas estações de trabalho."
+    },
+    "vuvouk": {
+      "title": "Bibliotecário no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um bibliotecário aldeão trabalhar ao lado de seu púlpito.\n\n§eReação\n\n§7Conversas de trabalho específicas do bibliotecário em sua estação de trabalho."
+    },
+    "somybl": {
+      "title": "Pastor no Trabalho",
+      "body": "§eGatilho\n\n§7Deixe um pastor aldeão trabalhar ao lado de seu tear.\n\n§eReação\n\n§7Conversas de trabalho específicas do pastor em sua estação de trabalho."
+    },
+    "hghxmj": {
+      "title": "Fletcher no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão Fletcher trabalhar ao lado de sua mesa de Fletching.\n\n§eReação\n\n§7Conversas de trabalho específicas do Fletcher em sua estação de trabalho."
+    },
+    "iomgvm": {
+      "title": "Armeiro no Trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão armeiro trabalhar ao lado de seu alto-forno.\n\n§eReação\n\n§7Conversas de trabalho específicas do Armeiro em sua estação de trabalho."
+    },
+    "qzpwgs": {
+      "title": "Açougueiro no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão açougueiro trabalhar ao lado de seu fumante.\n\n§eReação\n\n§7Conversas de trabalho específicas do açougueiro em sua estação de trabalho."
+    },
+    "ygclue": {
+      "title": "Cartógrafo no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um cartógrafo aldeão trabalhar ao lado de sua mesa de cartografia.\n\n§eReação\n\n§7Conversas de trabalho específicas do cartógrafo em sua estação de trabalho."
+    },
+    "wadgaj": {
+      "title": "Clérigo no Trabalho",
+      "body": "§eGatilho\n\n§7Deixe um Clérigo Aldeão trabalhar ao lado de sua Barraca de Cerveja.\n\n§eReação\n\n§7Conversas de trabalho específicas do clérigo em sua estação de trabalho."
+    },
+    "jskrly": {
+      "title": "Couro no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um Aldeão Leatherworker trabalhar ao lado de seu Caldeirão.\n\n§eReação\n\n§7Conversas de trabalho específicas do Leatherworker em sua estação de trabalho."
+    },
+    "esvtol": {
+      "title": "Pedreiro no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão Mason trabalhar ao lado de seu cortador de pedras.\n\n§eReação\n\n§7Conversas de trabalho específicas do Mason em sua estação de trabalho."
+    },
+    "kmacqo": {
+      "title": "ferreiro no trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão ferreiro trabalhar ao lado de sua mesa de metalurgia.\n\n§eReação\n\n§7Conversas de trabalho específicas do ferreiro em sua estação de trabalho."
+    },
+    "ruohgd": {
+      "title": "Armeiro no Trabalho",
+      "body": "§eGatilho\n\n§7Deixe um aldeão armeiro trabalhar ao lado de seu rebolo.\n\n§eReação\n\n§7Conversas de trabalho específicas do Armeiro em sua estação de trabalho."
+    },
+    "seglna": {
+      "title": "Agricultura",
+      "body": "§eGatilho\n\n§7Deixe um Agricultor Aldeão cuidar, colher ou plantar colheitas durante sua rotina normal de trabalho.\n\n§eReação\n\n§7Conversas específicas do agricultor enquanto trabalham com culturas."
+    },
+    "axqdtm": {
+      "title": "Inspecione as estantes",
+      "body": "§eGatilho\n\n§7Deixe um bibliotecário da aldeia inspecionar as estantes de livros próximas durante seu comportamento normal de trabalho.\n\n§eReação\n\n§7O bibliotecário comenta enquanto inspeciona as estantes."
+    },
+    "atmyvb": {
+      "title": "Não é possível acessar a estação de trabalho",
+      "body": "§eGatilho\n\n§7Dê a um aldeão empregado um bloco de local de trabalho reivindicado para o qual ele não consegue encontrar o caminho.\n\n§eReação\n\n§7Comentários frustrados quando um aldeão não consegue acessar sua estação de trabalho."
+    },
+    "mqepri": {
+      "title": "Subir de nível",
+      "body": "§eGatilho\n\n§7Complete negociações suficientes com um aldeão para que seu nível de negociação aumente.\n\n§eReação\n\n§7Comentários comemorativos quando um aldeão sobe de nível."
+    },
+    "dpmncr": {
+      "title": "Alcance o nível mestre",
+      "body": "§eGatilho\n\n§7Continue negociando com um aldeão até que ele atinja o nível Mestre.\n\n§eReação\n\n§7Diálogo comemorativo por atingir o nível Master Trading."
+    },
+    "mvaavr": {
+      "title": "Voltar para casa",
+      "body": "§eGatilho\n\n§7Espere até que os aldeões comecem a retornar para suas casas antes do anoitecer.\n\n§eReação\n\n§7Comentários de final de dia enquanto voltava para casa."
+    },
+    "lapzgg": {
+      "title": "Voltar para casa sem cama",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão tente voltar para casa sem uma cama válida para onde retornar.\n\n§eReação\n\n§7Comentários sobre tentar voltar para casa sem ter cama."
+    },
+    "qdjnbr": {
+      "title": "Vá para a cama",
+      "body": "§eGatilho\n\n§7Deixe um aldeão chegar à cama e começar a dormir.\n\n§eReação\n\n§7Comentários sobre a hora de dormir enquanto se prepara para dormir."
+    },
+    "kaencq": {
+      "title": "Dormindo",
+      "body": "§eGatilho\n\n§7Espere até que um aldeão esteja dormindo.\n\n§eReação\n\n§7Comentários ocasionais enquanto dorme."
+    },
+    "ayalkr": {
+      "title": "Acorde naturalmente",
+      "body": "§eGatilho\n\n§7Deixe um aldeão adormecido acordar naturalmente.\n\n§eReação\n\n§7Comentários depois de acordar naturalmente."
+    },
+    "hpeckh": {
+      "title": "Acorde um aldeão adormecido",
+      "body": "§eGatilho\n\n§7Acorde um aldeão enquanto ele está dormindo.\n\n§eReação\n\n§7Reclamações e reações confusas ao ser acordado."
+    },
+    "tmsotn": {
+      "title": "Pegue um item",
+      "body": "§eGatilho\n\n§7Deixe cair um item que um aldeão possa pegar.\n\n§eReação\n\n§7Comentários ao pegar um item."
+    },
+    "ksjqyn": {
+      "title": "Pegue um item largado por um jogador",
+      "bkltkm": "Pegue o item do jogador",
+      "body": "§eGatilho\n\n§7Deixe você mesmo um item e deixe um aldeão pegá-lo.\n\n§eReação\n\n§7Comentários diferentes quando o item foi descartado por um jogador."
+    },
+    "tkwpio": {
+      "title": "Pegue um item deixado cair por um aldeão",
+      "bkltkm": "Pegue o item do aldeão",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão deixe cair um item que outro aldeão pegue.\n\n§eReação\n\n§7Comentários diferentes quando o item foi descartado por outro aldeão."
+    },
+    "vynnwj": {
+      "title": "Veja uma pilha de itens caídos",
+      "bkltkm": "Veja a pilha de itens descartados",
+      "body": "§eGatilho\n\n§7Deixe uma grande pilha de itens caídos no chão.\n\n§eReação\n\n§7Reações ao ver uma grande pilha de itens caídos."
+    },
+    "movrqd": {
+      "title": "Pegue a armadura",
+      "body": "§eGatilho\n\n§7Deixe um aldeão pegar um pedaço de armadura.\n\n§eReação\n\n§7Comentários ao pegar Armadura."
+    },
+    "aqgndw": {
+      "title": "Pegue a armadura encantada",
+      "body": "§eGatilho\n\n§7Deixe um aldeão pegar uma peça de armadura encantada.\n\n§eReação\n\n§7Reações extras ao pegar a Armadura Encantada."
+    },
+    "sduvkx": {
+      "title": "Receba comida",
+      "body": "§eGatilho\n\n§7Dê comida a um aldeão.\n\n§eReação\n\n§7Reações ao receber Alimentos."
+    },
+    "wdjjop": {
+      "title": "Receba beterraba",
+      "body": "§eGatilho\n\n§7Dê beterraba a um aldeão.\n\n§eReação\n\n§7Reações ao receber Beterraba."
+    },
+    "naoasc": {
+      "title": "Receba Pão",
+      "body": "§eGatilho\n\n§7Dê pão a um aldeão.\n\n§eReação\n\n§7Reações ao receber Pão."
+    },
+    "chtsdz": {
+      "title": "Receba Cenoura",
+      "body": "§eGatilho\n\n§7Dê uma cenoura a um aldeão.\n\n§eReação\n\n§7Reações ao receber uma cenoura."
+    },
+    "guligp": {
+      "title": "Receba batatas",
+      "body": "§eGatilho\n\n§7Dê batatas a um aldeão.\n\n§eReação\n\n§7Reações ao receber Batatas."
+    },
+    "pvvjrq": {
+      "title": "Compartilhe comida com outro aldeão",
+      "bkltkm": "Compartilhe comida",
+      "body": "§eGatilho\n\n§7Deixe um aldeão jogar comida para outro aldeão.\n\n§eReação\n\n§7Diálogo entre os aldeões durante a partilha de alimentos."
+    },
+    "rupajb": {
+      "title": "Veja Orbes XP",
+      "body": "§eGatilho\n\n§7Tenha XP Orbs flutuando nas proximidades.\n\n§eReação\n\n§7Comentários curiosos sobre XP Orbs próximos."
+    },
+    "kesktm": {
+      "title": "Tenha um bebê",
+      "body": "§eGatilho\n\n§7Crie dois aldeões adultos. Dê-lhes comida suficiente e certifique-se de que a aldeia tenha uma cama válida sobressalente, depois espere que eles criem um bebê.\n\n§eReação\n\n§7Reações por ter um Bebê Aldeão, com comentários sobre Comida e o recém-chegado."
+    },
+    "peecpb": {
+      "title": "Veja um bebê aldeão",
+      "body": "§eGatilho\n\n§7Traga um bebê aldeão para perto de um aldeão adulto.\n\n§eReação\n\n§7Comentários sobre ver um Baby Villager próximo."
+    },
+    "ibmijn": {
+      "title": "Aglomere muitos aldeões juntos",
+      "bkltkm": "Aldeões superlotados",
+      "body": "§eGatilho\n\n§7Reúna vários aldeões em um espaço pequeno.\n\n§eReação\n\n§7Reclamações sobre estar lotado com muitos aldeões."
+    },
+    "wjxfil": {
+      "title": "Nomeie um aldeão",
+      "body": "§eGatilho\n\n§7Use uma etiqueta de nome para dar um nome a um aldeão.\n\n§eReação\n\n§7Reações ao receber um nome com uma etiqueta de nome."
+    },
+    "zhzalg": {
+      "title": "Nomeie um aldeão como \"Dinnerbone\"",
+      "bkltkm": "Nome Dinnerbone",
+      "body": "§eGatilho\n\n§7Use uma etiqueta de nome para nomear um aldeão como \"Dinnerbone\".\n\n§eReação\n\n§7Uma reação especial ao ser chamado de \"Dinnerbone\"."
+    },
+    "fdddcd": {
+      "title": "Nomeie um aldeão como \"Jeb\"",
+      "body": "§eGatilho\n\n§7Use uma etiqueta de nome para nomear um aldeão como \"Jeb\".\n\n§eReação\n\n§7Uma reação especial ao ser chamado de \"Jeb\"."
+    },
+    "ikgwgv": {
+      "title": "Gerar um aldeão com um ovo de geração",
+      "bkltkm": "Gerar Aldeão com Ovo",
+      "body": "§eGatilho\n\n§7Gera um Aldeão usando um Ovo de Geração de Aldeão.\n\n§eReação\n\n§7Comentários sobre ser gerado com um Spawn Egg."
+    },
+    "uqxhlf": {
+      "title": "Cure um aldeão zumbi",
+      "body": "§eGatilho\n\n§7Cure um Aldeão Zumbi aplicando Fraqueza e depois usando uma Maçã Dourada nele. Aguarde a conclusão da conversão.\n\n§eReação\n\n§7Reações de alívio e confusão após ser curado de um Aldeão Zumbi."
+    },
+    "xypywb": {
+      "title": "Nasce o bebê aldeão",
+      "body": "§eGatilho\n\n§7Crie dois aldeões adultos e espere o nascimento do bebê aldeão.\n\n§eReação\n\n§7Reações entusiasmadas ao nascimento de um novo Baby Villager."
+    },
+    "powsfc": {
+      "title": "Crescer",
+      "body": "§eGatilho\n\n§7Espere até que um bebê aldeão se torne adulto.\n\n§eReação\n\n§7Comentários sobre se tornar adulto repentinamente e precisar de um emprego."
+    },
+    "iyxnip": {
+      "title": "Jogar perseguição",
+      "body": "§eGatilho\n\n§7Deixe dois Baby Villagers brincarem e perseguirem um ao outro.\n\n§eReação\n\n§7Conversa divertida enquanto persegue outro Bebê Aldeão."
+    },
+    "acvjwd": {
+      "title": "Corridas de bebê aldeão",
+      "body": "§eGatilho\n\n§7Observe um bebê aldeão enquanto ele corre.\n\n§eReação\n\n§7Comentários entusiasmados enquanto você corre."
+    },
+    "wpkovh": {
+      "title": "Baby Sprints no fim de semana",
+      "bkltkm": "Sprint de fim de semana para bebês",
+      "body": "§eGatilho\n\n§7Faça uma corrida de Baby Villager no sábado ou domingo.\n\n§eReação\n\n§7Comentários extras específicos do fim de semana durante a corrida."
+    },
+    "glyayz": {
+      "title": "Bebê aldeão se machuca",
+      "body": "§eGatilho\n\n§7Faça com que um bebê aldeão sofra danos.\n\n§eReação\n\n§7Reações magoadas do Baby Villager."
+    },
+    "msnhby": {
+      "title": "Acalme-se depois de um susto",
+      "body": "§eGatilho\n\n§7Espere perto de um Bebê Aldeão depois que ele estiver assustado ou ferido e deixe-o se acalmar.\n\n§eReação\n\n§7Comentários de alívio após se acalmar de um susto."
+    },
+    "crafpr": {
+      "title": "Cure um bebê zumbi aldeão",
+      "bkltkm": "Cure o bebê zumbi aldeão",
+      "body": "§eGatilho\n\n§7Cure um Aldeão Bebê Zumbi aplicando Fraqueza e depois usando uma Maçã Dourada nele. Aguarde a conclusão da conversão.\n\n§eReação\n\n§7Reações de alívio e surpresa após ser curado de um bebê zumbi aldeão."
+    },
+    "kolbib": {
+      "title": "Gerar um bebê com um ovo gerado",
+      "bkltkm": "Gerar bebê com ovo",
+      "body": "§eGatilho\n\n§7Criar um bebê aldeão usando um ovo de geração.\n\n§eReação\n\n§7Comentários confusos sobre o aparecimento repentino de um Spawn Egg."
+    },
+    "ktjlsr": {
+      "title": "Pular tempo",
+      "body": "§eGatilho\n\n§7Avançar o tempo enquanto um Bebê Aldeão estiver ativo.\n\n§eReação\n\n§7Reações confusas ao tempo avançando repentinamente."
+    },
+    "pumwsk": {
+      "title": "De repente, vira dia",
+      "body": "§eGatilho\n\n§7Mude o mundo da noite para o dia repentinamente enquanto um Bebê Aldeão está ativo.\n\n§eReação\n\n§7Comentários sobre o mundo de repente se tornar dia."
+    },
+    "pncilo": {
+      "title": "De repente, vire para a noite",
+      "body": "§eGatilho\n\n§7Mude o mundo do dia para a noite repentinamente enquanto um Bebê Aldeão está ativo.\n\n§eReação\n\n§7Comentários sobre o mundo de repente se tornar noite."
+    },
+    "qskulx": {
+      "title": "Conheça um jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que um bebê aldeão perceba você.\n\n§eReação\n\n§7Saudações e comentários do Baby Villager ao conhecer um jogador."
+    },
+    "wdbhrs": {
+      "title": "Tente negociar com um bebê aldeão",
+      "bkltkm": "Experimente negociar com um bebê",
+      "body": "§eGatilho\n\n§7Tente interagir com um Baby Villager como se você estivesse abrindo uma negociação.\n\n§eReação\n\n§7Respostas explicando por que os Baby Villagers não podem negociar."
+    },
+    "jriskv": {
+      "title": "Veja um jogador com má reputação",
+      "bkltkm": "Jogador com má reputação",
+      "body": "§eGatilho\n\n§7Aproxime-se de um bebê aldeão enquanto você tem uma reputação ruim na aldeia.\n\n§eReação\n\n§7Reações cautelosas a um jogador com má reputação."
+    },
+    "shmswh": {
+      "title": "Veja o Herói da Vila",
+      "bkltkm": "Veja Herói da Vila",
+      "body": "§eGatilho\n\n§7Aproxime-se de um Bebê Aldeão enquanto você tem o Herói da Vila.\n\n§eReação\n\n§7Reações entusiasmadas ao ver o Herói da Vila."
+    },
+    "jzeyfm": {
+      "title": "Jogador machuca um bebê aldeão",
+      "bkltkm": "Jogador machuca bebê",
+      "body": "§eGatilho\n\n§7Atacar diretamente um bebê aldeão.\n\n§eReação\n\n§7Reações de dor mais fortes quando o jogador é o responsável."
+    },
+    "rhjmor": {
+      "title": "Dê a um bebê aldeão o bigode nº 5",
+      "bkltkm": "Bigode # 5",
+      "body": "§eGatilho\n\n§7Interaja com um Bebê Aldeão enquanto segura o Bigode do Aldeão #5 para dar-lhe o cosmético.\n\n§eReação\n\n§7Linhas estilo Aldeão #5 após receber o bigode."
+    },
+    "mmiaiz": {
+      "title": "Dê o microfone nº 9 a um bebê aldeão",
+      "bkltkm": "Microfone nº 9",
+      "body": "§eGatilho\n\n§7Interaja com um Bebê Aldeão enquanto segura o Microfone do Aldeão #9 para dar-lhe o cosmético.\n\n§eReação\n\n§7Falas estilo repórter após receber o microfone do Villager #9."
+    },
+    "ddcjqj": {
+      "title": "Dê um capacete de homem que testemunha um bebê",
+      "bkltkm": "Capacete de Testemunho",
+      "body": "§eGatilho\n\n§7Interaja com um Bebê Aldeão enquanto segura o Capacete do Testificate Man para dar-lhe o cosmético.\n\n§eReação\n\n§7Falas de estilo super-herói após receber o Capacete do Homem Testificate."
+    },
+    "qmpkik": {
+      "title": "Dê a um bebê o chapéu de prefeito",
+      "body": "§eGatilho\n\n§7Dê a um bebê aldeão o chapéu de prefeito.\n\n§eReação\n\n§7Falas estilo prefeito após receber o Chapéu de Prefeito."
+    },
+    "ocymho": {
+      "title": "Dê pão a um bebê",
+      "body": "§eGatilho\n\n§7Dê pão a um bebê aldeão.\n\n§eReação\n\n§7Comentários felizes sobre receber Pão."
+    },
+    "mwdzpi": {
+      "title": "Dê cenouras a um bebê",
+      "body": "§eGatilho\n\n§7Dê cenouras a um bebê aldeão.\n\n§eReação\n\n§7Comentários felizes sobre receber cenouras."
+    },
+    "dguxwa": {
+      "title": "Dê batatas a um bebê",
+      "body": "§eGatilho\n\n§7Dê batatas a um bebê aldeão.\n\n§eReação\n\n§7Comentários sobre receber batatas."
+    },
+    "fepzud": {
+      "title": "Dê beterraba a um bebê",
+      "body": "§eGatilho\n\n§7Dê beterraba a um bebê aldeão.\n\n§eReação\n\n§7Comentários sobre receber beterraba."
+    },
+    "odwyxn": {
+      "title": "Receba comida de outro aldeão",
+      "bkltkm": "Receba comida compartilhada",
+      "body": "§eGatilho\n\n§7Deixe um aldeão adulto jogar comida para um aldeão bebê.\n\n§eReação\n\n§7Comentários sobre receber comida de outro aldeão."
+    },
+    "jbsrwi": {
+      "title": "Nomeie um bebê aldeão",
+      "body": "§eGatilho\n\n§7Use uma etiqueta de nome para dar um nome a um bebê aldeão.\n\n§eReação\n\n§7Perguntas e comentários sobre receber um novo nome."
+    },
+    "tyxxzr": {
+      "title": "Nomeie um bebê como \"Dragão\"",
+      "body": "§eGatilho\n\n§7Use uma etiqueta de nome para nomear um bebê aldeão como \"Dragão\".\n\n§eReação\n\n§7Reações entusiasmadas ao ser chamado de \"Dragão\"."
+    },
+    "ddxykx": {
+      "title": "Veja um fogo de artifício",
+      "body": "§eGatilho\n\n§7Dispare fogos de artifício perto de um bebê aldeão.\n\n§eReação\n\n§7Reações entusiasmadas ao ver um fogo de artifício."
+    },
+    "fpacqw": {
+      "title": "Veja um Golem de Ferro",
+      "body": "§eGatilho\n\n§7Traga um Golem de Ferro para perto de um Aldeão Bebê.\n\n§eReação\n\n§7Reações curiosas e entusiasmadas ao ver um Golem de Ferro."
+    },
+    "imuuqo": {
+      "title": "Toque uma campainha perto de um bebê",
+      "body": "§eGatilho\n\n§7Toque uma campainha perto o suficiente para que um bebê aldeão ouça.\n\n§eReação\n\n§7Reações ao ouvir o sino da aldeia tocar nas proximidades."
+    },
+    "dvgsko": {
+      "title": "Atacado pelo jogador",
+      "body": "§eGatilho\n\n§7Atacar diretamente um aldeão.\n\n§eReação\n\n§7Reações de raiva e alarme ao ser atacado pelo jogador."
+    },
+    "juxfzf": {
+      "title": "Atacado dentro de sua casa",
+      "bkltkm": "Atacado em casa",
+      "body": "§eGatilho\n\n§7Atacar diretamente um aldeão enquanto ele estiver dentro de sua casa.\n\n§eReação\n\n§7Reações mais fortes quando atacadas dentro da própria casa."
+    },
+    "twmcdn": {
+      "title": "Ataque um aldeão em casa com testemunhas",
+      "bkltkm": "Ataque em casa, testemunhado",
+      "body": "§eGatilho\n\n§7Atacar um aldeão dentro de sua casa enquanto outros aldeões estão dentro para testemunhar o ataque.\n\n§eReação\n\n§7Uma troca entre vários aldeões quando alguém é atacado em casa na frente de testemunhas."
+    },
+    "kketrs": {
+      "title": "Atacado com uma espada",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando uma espada.\n\n§eReação\n\n§7Reações dolorosas ao ser atingido por uma espada."
+    },
+    "hskdvl": {
+      "title": "Atacado com um machado",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando um machado.\n\n§eReação\n\n§7Reações alarmadas a um ataque de machado."
+    },
+    "xzmjti": {
+      "title": "Atacado com uma Flecha",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando uma flecha.\n\n§eReação\n\n§7Comentários dolorosos após ser atingido por uma flecha."
+    },
+    "vxiaoq": {
+      "title": "Atacado com uma Poção Splash",
+      "bkltkm": "Ataque de Poção Splash",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando uma poção splash.\n\n§eReação\n\n§7Reações confusas e dolorosas ao ser atingido por uma Poção Splash."
+    },
+    "vufdua": {
+      "title": "Atacado com fogos de artifício",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando fogos de artifício.\n\n§eReação\n\n§7Reações dolorosas a danos de fogos de artifício."
+    },
+    "edcjif": {
+      "title": "Atacado com uma enxada",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando uma enxada.\n\n§eReação\n\n§7Comentários e reações de dor após ser atingido por uma enxada."
+    },
+    "sswvue": {
+      "title": "Atacado com uma pá",
+      "body": "§eGatilho\n\n§7Danifique diretamente um aldeão usando uma pá.\n\n§eReação\n\n§7Reclamações e reações de dor após ser atingido por uma pá."
+    },
+    "firzzf": {
+      "title": "Zumbi",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um zumbi.\n\n§eReação\n\n§7Reações de medo a um ataque de zumbi, incluindo preocupação em se tornar um."
+    },
+    "aqszqp": {
+      "title": "Saqueador",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um saqueador.\n\n§eReação\n\n§7Reclamações dolorosas sobre ter sido baleado por um Saqueador."
+    },
+    "jihjbr": {
+      "title": "Vindicador",
+      "body": "§eGatilho\n\n§7Faça com que um Aldeão receba dano de um Vindicante.\n\n§eReação\n\n§7Reações alarmadas aos ataques do Machado do Vindicante."
+    },
+    "wqlxlz": {
+      "title": "Evocador",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um Evoker.\n\n§eReação\n\n§7Comentários em pânico sobre a magia do Evoker e presas invocadas."
+    },
+    "sruvje": {
+      "title": "Bruxa",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de uma bruxa.\n\n§eReação\n\n§7Reclamações sobre ser atingido e atacado por uma Bruxa."
+    },
+    "kdmgux": {
+      "title": "Devastador",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um Devastador.\n\n§eReação\n\n§7Reações de pânico e confusão a um ataque do Devastador."
+    },
+    "lqhqre": {
+      "title": "Vex",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um Vex.\n\n§eReação\n\n§7Reações de medo ao ser atacado por um Vex voador."
+    },
+    "ykdmvn": {
+      "title": "Zoglin",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de um Zoglin.\n\n§eReação\n\n§7Piadas em pânico sobre ser atacado por um Zoglin."
+    },
+    "tomnfj": {
+      "title": "Caindo",
+      "body": "§eGatilho\n\n§7Faça um aldeão cair longe o suficiente para sofrer dano de queda.\n\n§eReação\n\n§7Comentários e reações de dor após sofrer danos de queda."
+    },
+    "rcnymw": {
+      "title": "Queimando",
+      "body": "§eGatilho\n\n§7Coloque fogo em um aldeão e deixe-o sofrer dano de queimadura.\n\n§eReação\n\n§7Reações de pânico por estar pegando fogo."
+    },
+    "cpriwe": {
+      "title": "Lava",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão sofra dano de lava.\n\n§eReação\n\n§7Reações de pânico ao receber dano de Lava."
+    },
+    "ajfxct": {
+      "title": "Congelando",
+      "body": "§eGatilho\n\n§7Mantenha um aldeão na neve em pó por tempo suficiente para que ele sofra dano de congelamento.\n\n§eReação\n\n§7Comentários e reações de dor durante o Congelamento."
+    },
+    "hsuxvw": {
+      "title": "Cacto",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão sofra dano de um cacto.\n\n§eReação\n\n§7Reações dolorosas aos danos do cacto."
+    },
+    "xjwzgt": {
+      "title": "Gotejador pontiagudo",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de Dripstone pontiagudo.\n\n§eReação\n\n§7Reações dolorosas a Dripstone pontiagudo."
+    },
+    "hmncqc": {
+      "title": "Bigorna caindo",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão receba dano de uma bigorna.\n\n§eReação\n\n§7Reações ao ser atingido por uma bigorna em queda."
+    },
+    "vrnuvd": {
+      "title": "Sufocação",
+      "body": "§eGatilho\n\n§7Prenda um aldeão dentro de blocos sólidos por tempo suficiente para que ele sofra dano de sufocamento.\n\n§eReação\n\n§7Reações de pânico à asfixia."
+    },
+    "hkgkqe": {
+      "title": "TNT",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão sofra dano de uma explosão de TNT.\n\n§eReação\n\n§7Reações ao receber dano de explosão de TNT."
+    },
+    "bgebrk": {
+      "title": "Bola de neve",
+      "body": "§eGatilho\n\n§7Acerte um aldeão com uma bola de neve.\n\n§eReação\n\n§7Reações frias e irritadas ao ser atingido por uma bola de neve."
+    },
+    "hofbtx": {
+      "title": "Poção Prejudicial",
+      "body": "§eGatilho\n\n§7Acerte um aldeão com uma poção inicial que aplica Dano.\n\n§eReação\n\n§7Reações dolorosas a uma Poção de Dano."
+    },
+    "djrmmx": {
+      "title": "Poção Venenosa",
+      "body": "§eGatilho\n\n§7Acerte um aldeão com uma poção inicial que aplica Veneno.\n\n§eReação\n\n§7Comentários e reclamações após envenenamento."
+    },
+    "gypeig": {
+      "title": "Poção de Lentidão",
+      "body": "§eGatilho\n\n§7Acerte um aldeão com uma poção inicial que aplica Lentidão.\n\n§eReação\n\n§7Comentários sobre ser retardado por uma Poção de Lentidão."
+    },
+    "efdxbu": {
+      "title": "Poção de Fraqueza",
+      "body": "§eGatilho\n\n§7Acerte um aldeão com uma poção inicial que aplica Fraqueza.\n\n§eReação\n\n§7Comentários sobre ser enfraquecido por uma Poção de Fraqueza."
+    },
+    "nyghdg": {
+      "title": "Fique perto do fogo",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão fique perto do fogo.\n\n§eReação\n\n§7Comentários preocupados sobre estar perigosamente perto do Fogo."
+    },
+    "mqbvkj": {
+      "title": "Fique no Magma",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão fique em um bloco de magma.\n\n§eReação\n\n§7Reações dolorosas e confusas ao pisar no Magma."
+    },
+    "rvvcio": {
+      "title": "Veja TNT",
+      "body": "§eGatilho\n\n§7Coloque TNT por perto.\n\n§eReação\n\n§7Reações alarmadas a TNT próximo."
+    },
+    "iwbeug": {
+      "title": "Veja um bloco caindo",
+      "body": "§eGatilho\n\n§7Faça uma queda de bloco afetada pela gravidade.\n\n§eReação\n\n§7Reações de surpresa ao ver um bloco caindo."
+    },
+    "qflzsh": {
+      "title": "Liberte um aldeão sufocante",
+      "bkltkm": "Aldeão Sufocante Grátis",
+      "body": "§eGatilho\n\n§7Liberte um aldeão depois que ele ficar preso e começar a sufocar dentro de blocos.\n\n§eReação\n\n§7Comentários aliviados após escapar do sufoco."
+    },
+    "uaeuco": {
+      "title": "Aldeão se machuca",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão sofra dano de qualquer fonte.\n\n§eReação\n\n§7Sons gerais de ferimentos e reações curtas de qualquer fonte de dano."
+    },
+    "vtdxda": {
+      "title": "Aldeão em pânico",
+      "body": "§eGatilho\n\n§7Espere até que um aldeão comece a entrar em pânico por causa do perigo próximo.\n\n§eReação\n\n§7Diálogo em pânico enquanto fugia de um perigo próximo."
+    },
+    "qpdxut": {
+      "title": "Acalme-se depois do perigo",
+      "body": "§eGatilho\n\n§7Espere que um aldeão se acalme depois que o perigo próximo passar.\n\n§eReação\n\n§7Comentários aliviados depois que o perigo passou."
+    },
+    "owqnai": {
+      "title": "Aldeão morre",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão morra nas proximidades.\n\n§eReação\n\n§7Reações finais quando um aldeão morre."
+    },
+    "lslgob": {
+      "title": "Veja outra entidade se machucar",
+      "bkltkm": "Veja outra entidade ferida",
+      "body": "§eGatilho\n\n§7Faça com que outra entidade sofra dano.\n\n§eReação\n\n§7Comentários quando outra entidade próxima se machuca."
+    },
+    "clauyk": {
+      "title": "Veja outro aldeão morrer",
+      "body": "§eGatilho\n\n§7Faça outro aldeão morrer.\n\n§eReação\n\n§7Reações mais fortes ao testemunhar a morte de outro aldeão."
+    },
+    "sfnzaa": {
+      "title": "Conclua uma negociação",
+      "body": "§eGatilho\n\n§7Conclua uma negociação com um aldeão enquanto a janela de negociação ainda estiver aberta.\n\n§eReação\n\n§7Comentários imediatos sobre o negócio enquanto a janela de negociação ainda estiver aberta."
+    },
+    "levzhc": {
+      "title": "Fechar negociação após comprar",
+      "bkltkm": "Fechar após comprar",
+      "body": "§eGatilho\n\n§7Conclua pelo menos uma negociação e feche a janela de negociação do aldeão.\n\n§eReação\n\n§7Despedidas de Negociação com Sucesso após fechar a janela de Negociação."
+    },
+    "esdgln": {
+      "title": "Fechar negociação sem comprar",
+      "bkltkm": "Sair sem negociar",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão, não compre nada e feche-a.\n\n§eReação\n\n§7Comentários decepcionados ou sarcásticos após sair sem comprar nada."
+    },
+    "kloxtc": {
+      "title": "Fechar a janela de negociação",
+      "body": "§eGatilho\n\n§7Feche a janela de negociação do aldeão.\n\n§eReação\n\n§7Despedidas gerais quando a janela de negociação fechar."
+    },
+    "wcclkh": {
+      "title": "Tente negociar com um aldeão desempregado",
+      "bkltkm": "Comércio com desempregados",
+      "body": "§eGatilho\n\n§7Tente negociar com um aldeão desempregado que não tenha profissão.\n\n§eReação\n\n§7Explicações e desculpas sobre não ter negociações para oferecer."
+    },
+    "bxwjpx": {
+      "title": "Tente negociar com um idiota",
+      "bkltkm": "Negocie com um idiota",
+      "body": "§eGatilho\n\n§7Tente negociar com um aldeão Nitwit.\n\n§eReação\n\n§7Respostas específicas do Nitwit quando você tenta negociar."
+    },
+    "vyxbxk": {
+      "title": "Recusa um jogador de baixa reputação",
+      "bkltkm": "Recusa de baixa reputação",
+      "body": "§eGatilho\n\n§7Tente negociar quando sua reputação com o aldeão for muito baixa para ser aceita.\n\n§eReação\n\n§7Recusas hostis causadas por sua baixa reputação."
+    },
+    "tnthcv": {
+      "title": "Recusa-se a negociar durante uma invasão",
+      "bkltkm": "Recusa durante uma invasão",
+      "body": "§eGatilho\n\n§7Tente negociar enquanto o aldeão está reagindo a um ataque ativo ou a invasores próximos.\n\n§eReação\n\n§7Recusas de Negociação enquanto o Aldeão está reagindo a uma Incursão."
+    },
+    "cgaatc": {
+      "title": "Não é possível negociar",
+      "body": "§eGatilho\n\n§7Tente negociar em uma situação em que o aldeão não consiga oferecer uma troca compatível.\n\n§eReação\n\n§7Respostas gerais quando uma negociação não pode ser concluída."
+    },
+    "tbwbvb": {
+      "title": "Comece a negociar com reputação neutra",
+      "bkltkm": "Reputação Neutra",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão enquanto a reputação da sua aldeia estiver neutra.\n\n§eReação\n\n§7Abertura neutra Diálogo comercial."
+    },
+    "cdnmve": {
+      "title": "Comece a negociar com baixa reputação",
+      "bkltkm": "Baixa reputação",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão enquanto a reputação da sua aldeia estiver baixa.\n\n§eReação\n\n§7Abertura hostil de diálogo comercial para baixa reputação."
+    },
+    "ucvjtj": {
+      "title": "Comece a negociar com reputação extremamente baixa",
+      "bkltkm": "Reputação muito baixa",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão enquanto a reputação da sua aldeia estiver extremamente baixa.\n\n§eReação\n\n§7Abertura fortemente hostil do diálogo comercial para reputação extremamente baixa."
+    },
+    "mgslvv": {
+      "title": "Comece a negociar com alta reputação",
+      "bkltkm": "Alta reputação",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão enquanto a reputação da sua aldeia estiver alta.\n\n§eReação\n\n§7Abertura amigável Diálogo comercial para alta reputação."
+    },
+    "cydnuv": {
+      "title": "Comece a negociar com reputação extremamente alta",
+      "bkltkm": "Reputação muito alta",
+      "body": "§eGatilho\n\n§7Abra uma janela de negociação do aldeão enquanto a reputação da sua aldeia estiver extremamente alta.\n\n§eReação\n\n§7Abertura altamente entusiasmada do diálogo comercial para uma reputação extremamente elevada."
+    },
+    "apctnl": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que um Mercador Errante note você.\n\n§eReação\n\n§7Saudações e argumentos de vendas do Wandering Trader."
+    },
+    "ojifec": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto de um Mercador Errante enquanto ele estiver vagando.\n\n§eReação\n\n§7 Conversas ociosas relacionadas a viagens, negociações e lhamas."
+    },
+    "fhhhtn": {
+      "title": "Janela de negociação aberta",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Wandering Trader.\n\n§eReação\n\n§7Argumentos de vendas quando a janela Wandering Trader's Trade é aberta."
+    },
+    "hfmzvq": {
+      "title": "Conclua uma negociação",
+      "body": "§eGatilho\n\n§7Conclua uma negociação com um comerciante errante.\n\n§eReação\n\n§7Comentários satisfeitos imediatamente após uma negociação bem-sucedida."
+    },
+    "yqyygc": {
+      "title": "Fechar negociações após comprar",
+      "body": "§eGatilho\n\n§7Conclua pelo menos uma negociação com um comerciante errante e feche a janela de negociação.\n\n§eReação\n\n§7Despedidas amigáveis após fechar a janela após uma negociação."
+    },
+    "bqtwoz": {
+      "title": "Sair sem negociar",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Wandering Trader, não compre nada e feche-a.\n\n§eReação\n\n§7Comentários decepcionados ou sarcásticos após sair sem negociar."
+    },
+    "tsbyhr": {
+      "title": "Pego na chuva",
+      "body": "§eGatilho\n\n§7Mantenha um Comerciante Errante do lado de fora enquanto chove.\n\n§eReação\n\n§7Reclamações e piadas relacionadas à chuva."
+    },
+    "apaxqw": {
+      "title": "Usa uma poção de invisibilidade",
+      "bkltkm": "Use Poção de Invisibilidade",
+      "body": "§eGatilho\n\n§7Espere que um Comerciante Errante use sua poção de invisibilidade.\n\n§eReação\n\n§7Comentários quando o Mercador Errante usa uma Poção de Invisibilidade."
+    },
+    "gljfyh": {
+      "title": "Usa uma poção com uma lhama",
+      "bkltkm": "Poção com Uma Lhama",
+      "body": "§eGatilho\n\n§7Espere por um comerciante errante com uma lhama para usar sua poção de invisibilidade.\n\n§eReação\n\n§7Comentários extras ao usar uma Poção com uma Lhama."
+    },
+    "lwgiux": {
+      "title": "Usa uma poção com duas lhamas",
+      "bkltkm": "Poção com Duas Lhamas",
+      "body": "§eGatilho\n\n§7Espere por um Mercador Errante com duas lhamas para usar sua poção de invisibilidade.\n\n§eReação\n\n§7Comentários extras ao usar uma Poção com duas Lhamas."
+    },
+    "lnwpks": {
+      "title": "Comerciante Errante Invisível",
+      "bkltkm": "Comerciante Invisível",
+      "body": "§eGatilho\n\n§7Fique perto de um Mercador Errante enquanto ele estiver invisível.\n\n§eReação\n\n§7Piadas e comentários enquanto o Comerciante Errante está invisível."
+    },
+    "edsrur": {
+      "title": "Corte o nariz de um aldeão",
+      "bkltkm": "Corte o nariz deles",
+      "body": "§eGatilho\n\n§7Use uma tesoura em um aldeão para remover seu nariz.\n\n§eReação\n\n§7Reações de raiva e surpresa por ter seu nariz cortado."
+    },
+    "iyjfgy": {
+      "title": "Aldeão Sem Nariz Vagando",
+      "bkltkm": "Aldeão Sem Nariz",
+      "body": "§eGatilho\n\n§7Deixe um aldeão vagar depois que seu nariz for removido.\n\n§eReação\n\n§7Comentários e reclamações errantes e sem nariz."
+    },
+    "qsxdbn": {
+      "title": "Dê um nariz a um aldeão",
+      "body": "§eGatilho\n\n§7Interaja com um aldeão enquanto segura um nariz de aldeão para colocá-lo de volta.\n\n§eReação\n\n§7Reações ao ter um Nariz devolvido."
+    },
+    "lddret": {
+      "title": "Tente dar um segundo nariz",
+      "body": "§eGatilho\n\n§7Tente dar um Nariz de Aldeão a um Aldeão que já tenha um.\n\n§eReação\n\n§7Comentários quando você tenta dar um Nariz a um Aldeão que já possui um."
+    },
+    "hzfwoh": {
+      "title": "Use um nariz de aldeão",
+      "body": "§eGatilho\n\n§7Use um nariz de aldeão.\n\n§eReação\n\n§7Comentários sobre ver o jogador usando um nariz de aldeão."
+    },
+    "zttbwz": {
+      "title": "Dê um cosmético a um aldeão",
+      "bkltkm": "Dê um cosmético",
+      "body": "§eGatilho\n\n§7Dê a um aldeão um dos cosméticos suportados do Villager News.\n\n§eReação\n\n§7Reações ao receber um dos cosméticos Villager News suportados."
+    },
+    "lxsikk": {
+      "title": "Dê um capacete de homem com testemunho de aldeão",
+      "bkltkm": "Dê capacete de testemunho",
+      "body": "§eGatilho\n\n§7Dê a um aldeão o capacete do homem que testemunha.\n\n§eReação\n\n§7Comentários sobre receber o Capacete do Testificate Man."
+    },
+    "yiddyx": {
+      "title": "Dê um bigode a um aldeão",
+      "bkltkm": "Dê um bigode",
+      "body": "§eGatilho\n\n§7Dê a um aldeão o bigode do aldeão nº 5.\n\n§eReação\n\n§7Comentários sobre receber o bigode do aldeão nº 5."
+    },
+    "cuqcto": {
+      "title": "Dê um microfone a um aldeão",
+      "bkltkm": "Dê um microfone",
+      "body": "§eGatilho\n\n§7Dê a um aldeão o microfone do aldeão nº 9.\n\n§eReação\n\n§7Comentários sobre receber o microfone do Aldeão #9."
+    },
+    "qwebrc": {
+      "title": "Remover um cosmético",
+      "body": "§eGatilho\n\n§7Remova um cosmético Villager News de um Aldeão.\n\n§eReação\n\n§7Reações à remoção de um cosmético."
+    },
+    "weifaj": {
+      "title": "Veja um aldeão usando um cosmético",
+      "bkltkm": "Aldeão usa cosméticos",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão use um cosmético Villager News perto de outro aldeão.\n\n§eReação\n\n§7Comentários sobre outro aldeão usando um cosmético."
+    },
+    "pmflxd": {
+      "title": "Dê um sinal a um aldeão",
+      "body": "§eGatilho\n\n§7Interaja com um aldeão enquanto segura uma placa para dar-lhe uma.\n\n§eReação\n\n§7Comentários sobre receber e segurar um Sinal."
+    },
+    "dlmcge": {
+      "title": "Sente-se em um barco",
+      "body": "§eGatilho\n\n§7Coloque um aldeão em um barco.\n\n§eReação\n\n§7Conversas gerais sobre barcos, desde piadas sobre remo até perguntas sobre para onde estão indo."
+    },
+    "jlzjmj": {
+      "title": "Barco em terra",
+      "body": "§eGatilho\n\n§7Coloque um aldeão em um barco que está parado em terra.\n\n§eReação\n\n§7Comentários sobre ficar preso em um barco em terra."
+    },
+    "usyegn": {
+      "title": "Barco na água",
+      "body": "§eGatilho\n\n§7Coloque um aldeão em um barco flutuando na água.\n\n§eReação\n\n§7Comentários sobre andar de barco na água."
+    },
+    "hchqij": {
+      "title": "Cutuque um aldeão em um barco",
+      "bkltkm": "Cutucar o aldeão no barco",
+      "body": "§eGatilho\n\n§7Empurre ou bata em um barco enquanto um aldeão estiver sentado nele.\n\n§eReação\n\n§7Reclamações quando o jogador cutuca seu Barco."
+    },
+    "dtjbxr": {
+      "title": "Dois aldeões em um barco",
+      "body": "§eGatilho\n\n§7Coloque dois aldeões no mesmo barco.\n\n§eReação\n\n§7Comentários e conversas quando dois aldeões compartilham um barco."
+    },
+    "ibxyjg": {
+      "title": "Sente-se em um Minecart",
+      "body": "§eGatilho\n\n§7Coloque um aldeão em um carrinho de mina.\n\n§eReação\n\n§7Conversas gerais do Minecart e perguntas sobre para onde estão indo."
+    },
+    "kqzhce": {
+      "title": "Ande em um carrinho de mina em movimento",
+      "body": "§eGatilho\n\n§7Mova um carrinho de mina enquanto um aldeão estiver nele.\n\n§eReação\n\n§7Reações extras enquanto o Minecart está em movimento."
+    },
+    "kjtoru": {
+      "title": "Manhã",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão durante a manhã do jogo.\n\n§eReação\n\n§7Saudações e comentários da manhã."
+    },
+    "hfwudx": {
+      "title": "Tarde",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão durante a tarde do jogo.\n\n§eReação\n\n§7Boa tarde, saudações e comentários."
+    },
+    "xjsgrt": {
+      "title": "Noite",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão durante a noite do jogo.\n\n§eReação\n\n§7Saudações e comentários noturnos."
+    },
+    "esfzaq": {
+      "title": "Noite",
+      "body": "§eGatilho\n\n§7Aproxime-se de um aldeão durante a noite do jogo.\n\n§eReação\n\n§7Saudações e comentários noturnos."
+    },
+    "zdlnpv": {
+      "title": "Topo da hora",
+      "body": "§eGatilho\n\n§7Espere até que o relógio do mundo real chegue a uma hora.\n\n§eReação\n\n§7Comentários sobre o relógio do mundo real atingindo uma nova hora."
+    },
+    "odhpgc": {
+      "title": "De repente vira dia",
+      "body": "§eGatilho\n\n§7Mudar o mundo da noite para o dia repentinamente enquanto um aldeão estiver ativo.\n\n§eReação\n\n§7Reações confusas ao mundo de repente se tornar dia."
+    },
+    "ulzuwo": {
+      "title": "De repente se transforma em noite",
+      "body": "§eGatilho\n\n§7Mude o mundo do dia para a noite repentinamente enquanto um aldeão estiver ativo.\n\n§eReação\n\n§7Reações confusas ao mundo de repente se tornar noite."
+    },
+    "jfipmb": {
+      "title": "Saltos de tempo",
+      "body": "§eGatilho\n\n§7Avançar o tempo enquanto um aldeão estiver ativo.\n\n§eReação\n\n§7Comentários sobre o salto repentino no ciclo dia-noite."
+    },
+    "yecdox": {
+      "title": "Pego na chuva",
+      "body": "§eGatilho\n\n§7Mantenha um aldeão do lado de fora enquanto estiver chovendo.\n\n§eReação\n\n§7Reclamações relacionadas à chuva, especialmente sobre molhar o nariz."
+    },
+    "qfmehi": {
+      "title": "Veja relâmpago",
+      "body": "§eGatilho\n\n§7Relâmpago por perto.\n\n§eReação\n\n§7Reações de espanto ao relâmpago próximo."
+    },
+    "cbvvip": {
+      "title": "Passeie por algum lugar quente",
+      "body": "§eGatilho\n\n§7Leve um aldeão para um ambiente quente e deixe-o vagar.\n\n§eReação\n\n§7Comentários sobre perambular por ambientes excepcionalmente quentes."
+    },
+    "xbfobn": {
+      "title": "Vagueie por algum lugar frio",
+      "body": "§eGatilho\n\n§7Leve um aldeão para um ambiente frio e deixe-o vagar.\n\n§eReação\n\n§7Comentários sobre perambular por ambientes excepcionalmente frios."
+    },
+    "gasqmf": {
+      "title": "Fique em águas rasas",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão fique de pé ou caminhe em águas rasas.\n\n§eReação\n\n§7Comentários sobre ficar em águas rasas."
+    },
+    "dnodqx": {
+      "title": "Fique no gelo",
+      "body": "§eGatilho\n\n§7Faça um aldeão ficar no gelo.\n\n§eReação\n\n§7Comentários sobre ficar no gelo."
+    },
+    "pdlrno": {
+      "title": "Fique na neve",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão fique na neve.\n\n§eReação\n\n§7Comentários sobre pisar na neve."
+    },
+    "qoapot": {
+      "title": "Vagueie em outra dimensão",
+      "bkltkm": "Vaguear: Outra Dimensão",
+      "body": "§eGatilho\n\n§7Traga um aldeão para outra dimensão e deixe-o vagar.\n\n§eReação\n\n§7Comentários sobre vagar em algum lugar fora do Mundo Superior."
+    },
+    "iaeaxa": {
+      "title": "Vagueie no Nether",
+      "body": "§eGatilho\n\n§7Traga um aldeão para o Nether e deixe-o vagar.\n\n§eReação\n\n§7Comentários errantes específicos do Nether."
+    },
+    "yptjhi": {
+      "title": "Vagueie no final",
+      "body": "§eGatilho\n\n§7Traga um Aldeão para o Fim e deixe-o vagar por aí.\n\n§eReação\n\n§7Comentários errantes específicos do final."
+    },
+    "dmwram": {
+      "title": "Voltar para casa em outra dimensão",
+      "bkltkm": "Casa em outra dimensão",
+      "body": "§eGatilho\n\n§7Mantenha um Aldeão em outra dimensão até que ele alcance o ponto em sua programação onde normalmente retornaria para casa.\n\n§eReação\n\n§7Comentários sobre tentativa de voltar para casa vindo de outra dimensão."
+    },
+    "yrzgqg": {
+      "title": "Tente voltar para casa no Nether",
+      "bkltkm": "Voltar para casa: Nether",
+      "body": "§eGatilho\n\n§7Mantenha um Aldeão no Nether até que ele alcance o ponto em sua programação onde normalmente retornaria para casa.\n\n§eReação\n\n§7Comentários específicos do Nether quando sua agenda lhes diz para voltar para casa."
+    },
+    "tzmxrx": {
+      "title": "Tente voltar para casa no final",
+      "bkltkm": "Voltar para casa: Fim",
+      "body": "§eGatilho\n\n§7Mantenha um Aldeão no Fim até que ele atinja o ponto em sua programação onde normalmente retornaria para casa.\n\n§eReação\n\n§7Terminar comentários específicos quando sua agenda lhes disser para voltar para casa."
+    },
+    "dsgudq": {
+      "title": "Passeie pelas profundezas do subsolo",
+      "body": "§eGatilho\n\n§7Traga um aldeão para o subsolo e deixe-o vagar por aí.\n\n§eReação\n\n§7Comentários sobre estar no subsolo."
+    },
+    "zrznap": {
+      "title": "Passeie bem acima do solo",
+      "bkltkm": "Passeie bem acima do solo",
+      "body": "§eGatilho\n\n§7Traga um aldeão bem acima do solo e deixe-o vagar.\n\n§eReação\n\n§7Comentários e perguntas sobre estar extremamente acima do solo."
+    },
+    "jppbkg": {
+      "title": "Segunda-feira",
+      "body": "§eGatilho\n\n§7Jogue na segunda-feira no mundo real.\n\n§eReação\n\n§7Comentários específicos de segunda-feira com base no calendário do mundo real."
+    },
+    "mbljkh": {
+      "title": "Passeie em uma segunda-feira",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear na segunda-feira no mundo real.\n\n§eReação\n\n§7Conversa extra nas segundas-feiras do mundo real."
+    },
+    "rbwjjn": {
+      "title": "Terça-feira",
+      "body": "§eGatilho\n\n§7Jogue na terça-feira no mundo real.\n\n§eReação\n\n§7Comentários específicos de terça-feira com base no calendário do mundo real."
+    },
+    "ddshai": {
+      "title": "Passeie em uma terça-feira",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear na terça-feira no mundo real.\n\n§eReação\n\n§7Conversas extras nas terças-feiras do mundo real."
+    },
+    "evhijz": {
+      "title": "Quarta-feira",
+      "body": "§eGatilho\n\n§7Jogue na quarta-feira no mundo real.\n\n§eReação\n\n§7Comentários específicos de quarta-feira com base no calendário do mundo real."
+    },
+    "xupkxm": {
+      "title": "Passeie em uma quarta-feira",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear na quarta-feira no mundo real.\n\n§eReação\n\n§7Conversa extra nas quartas-feiras do mundo real."
+    },
+    "oyhlfi": {
+      "title": "Quinta-feira",
+      "body": "§eGatilho\n\n§7Jogue na quinta-feira no mundo real.\n\n§eReação\n\n§7Comentários específicos de quinta-feira com base no calendário do mundo real."
+    },
+    "sllgiy": {
+      "title": "Passeie em uma quinta-feira",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear na quinta-feira no mundo real.\n\n§eReação\n\n§7Conversas extras nas quintas-feiras do mundo real."
+    },
+    "yiypfl": {
+      "title": "Sexta-feira",
+      "body": "§eGatilho\n\n§7Jogue na sexta-feira no mundo real.\n\n§eReação\n\n§7Comentários específicos de sexta-feira com base no calendário do mundo real."
+    },
+    "pcqyxo": {
+      "title": "Passeie em uma sexta-feira",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear na sexta-feira no mundo real.\n\n§eReação\n\n§7Conversas extras nas sextas-feiras do mundo real."
+    },
+    "mgrayl": {
+      "title": "Sábado",
+      "body": "§eGatilho\n\n§7Jogue no sábado no mundo real.\n\n§eReação\n\n§7Comentários específicos de sábado com base no calendário do mundo real."
+    },
+    "rtpbnf": {
+      "title": "Passear em um sábado",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear no sábado no mundo real.\n\n§eReação\n\n§7Conversas extras nos sábados do mundo real."
+    },
+    "mlpwpg": {
+      "title": "Domingo",
+      "body": "§eGatilho\n\n§7Jogue no domingo no mundo real.\n\n§eReação\n\n§7Comentários específicos de domingo com base no calendário do mundo real."
+    },
+    "xcetix": {
+      "title": "Passeie em um domingo",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear no domingo no mundo real.\n\n§eReação\n\n§7Conversa extra nos domingos do mundo real."
+    },
+    "lxoawz": {
+      "title": "Fim de semana",
+      "body": "§eGatilho\n\n§7Jogue no sábado ou domingo no mundo real.\n\n§eReação\n\n§7Comentários específicos do fim de semana baseados no calendário do mundo real."
+    },
+    "jalvqj": {
+      "title": "Passeie no fim de semana",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear no sábado ou domingo no mundo real.\n\n§eReação\n\n§7Conversa extra durante o fim de semana do mundo real."
+    },
+    "rshlel": {
+      "title": "Dia de Ano Novo",
+      "body": "§eGatilho\n\n§7Jogue em 1º de janeiro no mundo real.\n\n§eReação\n\n§7Saudações e comentários de Ano Novo."
+    },
+    "tlaloc": {
+      "title": "Passeie na véspera de Ano Novo",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear no dia 31 de dezembro no mundo real.\n\n§eReação\n\n§7Comentários errantes de Réveillon e expectativa pelo ano novo."
+    },
+    "xugxsx": {
+      "title": "Dia dos Namorados",
+      "body": "§eGatilho\n\n§7Jogue em 14 de fevereiro no mundo real.\n\n§eReação\n\n§7Comentários do Dia dos Namorados com base na data do mundo real."
+    },
+    "jqnbjj": {
+      "title": "Passeie no Dia da Mentira",
+      "bkltkm": "Passeie pelo Primeiro de Abril",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear no dia 1º de abril no mundo real.\n\n§eReação\n\n§7Piadas e comentários errantes do Dia da Mentira."
+    },
+    "tvenjr": {
+      "title": "Aniversário do Minecraft",
+      "body": "§eGatilho\n\n§7Jogue no dia 17 de maio, aniversário do Minecraft.\n\n§eReação\n\n§7Comentários comemorativos do aniversário do Minecraft."
+    },
+    "bkalew": {
+      "title": "Sexta-feira 13",
+      "body": "§eGatilho\n\n§7Jogue em uma sexta-feira 13 do mundo real.\n\n§eReação\n\n§7Piadas de sexta-feira 13 e comentários desconfortáveis."
+    },
+    "tjcmrb": {
+      "title": "Passeie em outubro",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear durante o mês de outubro.\n\n§eReação\n\n§7Comentários errantes sazonais durante outubro."
+    },
+    "ytyefv": {
+      "title": "dia das bruxas",
+      "body": "§eGatilho\n\n§7Jogue em 31 de outubro no mundo real.\n\n§eReação\n\n§7Piadas e comentários específicos do Halloween."
+    },
+    "pkchhl": {
+      "title": "Passeie em dezembro",
+      "body": "§eGatilho\n\n§7Deixe um aldeão passear durante o mês de dezembro.\n\n§eReação\n\n§7Comentários errantes sazonais durante dezembro."
+    },
+    "pfbycl": {
+      "title": "Véspera de Natal",
+      "body": "§eGatilho\n\n§7Jogue em 24 de dezembro no mundo real.\n\n§eReação\n\n§7Comentários da véspera de Natal e antecipação festiva."
+    },
+    "pxaclw": {
+      "title": "Dia de Natal",
+      "body": "§eGatilho\n\n§7Jogue em 25 de dezembro no mundo real.\n\n§eReação\n\n§7Saudações de Natal e comentários festivos."
+    },
+    "ilreqt": {
+      "title": "Reunião de Aldeões",
+      "body": "§eGatilho\n\n§7Espere até o final do dia, quando os aldeões adultos se reunirem ao redor do Sino da vila.\n\n§eReação\n\n§7Conversa geral enquanto aldeões adultos se reúnem ao redor do Sino da vila."
+    },
+    "fljkip": {
+      "title": "Fofoca dos aldeões",
+      "body": "§eGatilho\n\n§7Deixe os aldeões se encontrarem e fofocarem entre si durante o horário de reunião.\n\n§eReação\n\n§7Trocas de fofocas entre os aldeões durante o horário de reunião."
+    },
+    "swwywp": {
+      "title": "Não consigo encontrar a campainha",
+      "body": "§eGatilho\n\n§7Faça com que um aldeão atinja o horário de coleta enquanto não consegue encontrar um sino de aldeia próximo.\n\n§eReação\n\n§7Comentários confusos ou frustrados quando chega a hora da reunião, mas o sino não pode ser encontrado."
+    },
+    "gtydyh": {
+      "title": "Dois aldeões vagam juntos",
+      "bkltkm": "Dois aldeões vagando",
+      "body": "§eGatilho\n\n§7Deixe dois aldeões vagarem juntos por tempo suficiente para iniciar uma de suas conversas.\n\n§eReação\n\n§7Conversas mais longas entre dois aldeões vagando juntos."
+    },
+    "gmewwz": {
+      "title": "Um aldeão está sem nariz",
+      "bkltkm": "Um sem nariz",
+      "body": "§eGatilho\n\n§7Deixe dois aldeões vagarem juntos enquanto um deles está sem o nariz.\n\n§eReação\n\n§7Diferentes conversas errantes quando um aldeão está sem o nariz."
+    },
+    "fqtqvj": {
+      "title": "Dois aldeões sem nariz",
+      "bkltkm": "Dois aldeões, sem nariz",
+      "body": "§eGatilho\n\n§7Deixe dois aldeões vagarem juntos enquanto ambos estão sem nariz.\n\n§eReação\n\n§7Diferentes conversas errantes quando ambos os aldeões estão sem nariz."
+    },
+    "bbfptm": {
+      "title": "Dois aldeões em uma fogueira",
+      "bkltkm": "Dois em uma fogueira",
+      "body": "§eGatilho\n\n§7Reúna dois aldeões perto de uma fogueira por tempo suficiente para que uma conversa sobre a fogueira comece.\n\n§eReação\n\n§7Conversas mais longas entre dois aldeões reunidos em torno de uma fogueira."
+    },
+    "vkmlky": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que o prefeito perceba você.\n\n§eReação\n\n§7Saudações suspeitas e comentários evasivos quando o prefeito percebe você."
+    },
+    "sqcpma": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto do prefeito enquanto eles estão vagando.\n\n§eReação\n\n§7Conversas ociosas específicas do prefeito enquanto perambulam."
+    },
+    "fgdvbt": {
+      "title": "Janela de negociação aberta",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do prefeito.\n\n§eReação\n\n§7Comentários específicos do prefeito quando a janela de negociação é aberta."
+    },
+    "zfmfuc": {
+      "title": "Sair sem negociar",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do prefeito, não compre nada e feche-a.\n\n§eReação\n\n§7Comentários decepcionados quando você sai sem Negociar."
+    },
+    "iuuajz": {
+      "title": "Fechar negociações após comprar",
+      "body": "§eGatilho\n\n§7Conclua uma negociação com o prefeito e feche a janela de negociação.\n\n§eReação\n\n§7Despedidas satisfeitas após uma negociação bem-sucedida."
+    },
+    "maokpy": {
+      "title": "Jogador usa chapéu de prefeito",
+      "bkltkm": "Jogador usa chapéu de prefeito",
+      "body": "§eGatilho\n\n§7Use o Chapéu de Prefeito perto do Prefeito.\n\n§eReação\n\n§7Reações ao ver você usar o chapéu de prefeito."
+    },
+    "vhlwkc": {
+      "title": "Recebe dano",
+      "body": "§eGatilho\n\n§7Faça com que o prefeito receba dano de qualquer fonte.\n\n§eReação\n\n§7Reações do Prefeito Geral ao receber dano."
+    },
+    "kjrldb": {
+      "title": "Atacado pelo jogador",
+      "body": "§eGatilho\n\n§7Atacar diretamente o prefeito.\n\n§eReação\n\n§7Reações mais fortes do prefeito quando o jogador é responsável pelo dano."
+    },
+    "hhefye": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que o Aldeão #5 perceba você.\n\n§eReação\n\n§7Saudações do Aldeão nº 5, comentários de celebridades e apresentações em estilo de notícias."
+    },
+    "rolnox": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto do Aldeão #5 enquanto eles estão vagando.\n\n§eReação\n\n§7Conversas com tema de notícias enquanto o Aldeão #5 vagueia."
+    },
+    "kqzszs": {
+      "title": "Janela de negociação aberta",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Aldeão #5.\n\n§eReação\n\n§7O aldeão nº 5 comenta quando a janela de troca abre."
+    },
+    "hyxpsm": {
+      "title": "Fechar janela de negociação",
+      "body": "§eGatilho\n\n§7Feche a janela de negociação do Aldeão #5.\n\n§eReação\n\n§7O Aldeão #5 se despede quando a janela de troca fecha."
+    },
+    "kveomo": {
+      "title": "Fechar negociações após comprar",
+      "body": "§eGatilho\n\n§7Conclua uma negociação com o aldeão nº 5 e feche a janela de negociação.\n\n§eReação\n\n§7Despedidas de comércio bem-sucedido do aldeão #5."
+    },
+    "ccbbcw": {
+      "title": "Jogador usa bigode do aldeão nº 5",
+      "bkltkm": "Jogador usa bigode",
+      "body": "§eGatilho\n\n§7Use o bigode do Aldeão #5 perto do Aldeão #5.\n\n§eReação\n\n§7Comentários sobre ver você usando o bigode do Aldeão #5."
+    },
+    "ibntxl": {
+      "title": "Recebe dano",
+      "body": "§eGatilho\n\n§7Faça com que o Aldeão #5 sofra dano de qualquer fonte.\n\n§eReação\n\n§7Reações do Aldeão #5 ao receber dano."
+    },
+    "cwcnah": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que o Aldeão #9 perceba você.\n\n§eReação\n\n§7Saudações, perguntas e tentativas de entrevista em estilo repórter do Aldeão #9."
+    },
+    "ghvshs": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto do Aldeão #9 enquanto eles estão vagando.\n\n§eReação\n\n§7 Conversa fiada no estilo repórter enquanto o Aldeão #9 vagueia."
+    },
+    "eeickm": {
+      "title": "Janela de negociação aberta",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Aldeão #9.\n\n§eReação\n\n§7O aldeão #9 comenta quando a janela de troca abre."
+    },
+    "veajom": {
+      "title": "Fechar janela de negociação",
+      "body": "§eGatilho\n\n§7Feche a janela de negociação do Aldeão #9.\n\n§eReação\n\n§7O Aldeão #9 se despede quando a janela de troca fecha."
+    },
+    "xydsau": {
+      "title": "Segurando o microfone",
+      "body": "§eGatilho\n\n§7Fique perto do Aldeão #9 enquanto ele segura seu microfone.\n\n§eReação\n\n§7Diálogo extra estilo repórter enquanto o Aldeão #9 segura o microfone."
+    },
+    "osadkt": {
+      "title": "Recebe dano",
+      "body": "§eGatilho\n\n§7Faça com que o Aldeão #9 sofra dano de qualquer fonte.\n\n§eReação\n\n§7Reações do Aldeão #9 ao receber dano."
+    },
+    "piplnx": {
+      "title": "Atacado pelo jogador",
+      "body": "§eGatilho\n\n§7Atacar diretamente o Aldeão #9.\n\n§eReação\n\n§7Reações mais fortes do Aldeão #9 quando o jogador é responsável pelo dano."
+    },
+    "nxkyfu": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que o Testificate Man perceba você.\n\n§eReação\n\n§7Saudações heróicas e ofertas comerciais do Testificate Man."
+    },
+    "boedaq": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto do Testificate Man enquanto eles estão vagando.\n\n§eReação\n\n§7 Conversa fiada com tema de super-heróis enquanto o Testificate Man vagueia."
+    },
+    "ttftvk": {
+      "title": "Janela de negociação aberta",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Testificate Man.\n\n§eReação\n\n§7Testificate Man comenta quando a janela Trade é aberta."
+    },
+    "htndev": {
+      "title": "Fechar janela de negociação",
+      "body": "§eGatilho\n\n§7Feche a janela de negociação do Testificate Man.\n\n§eReação\n\n§7Testificate Man se despede quando a janela de negociação fecha."
+    },
+    "kmyotp": {
+      "title": "Sair sem negociar",
+      "body": "§eGatilho\n\n§7Abra a janela de negociação do Testificate Man, não compre nada e feche-a.\n\n§eReação\n\n§7Homem de testemunho desapontado comenta quando você sai sem negociar."
+    },
+    "qslauo": {
+      "title": "Fechar negociações após comprar",
+      "body": "§eGatilho\n\n§7Conclua uma negociação com Testificate Man e feche a janela de negociação.\n\n§eReação\n\n§7Despedidas comerciais bem-sucedidas do Testificate Man."
+    },
+    "damntn": {
+      "title": "Jogador usa capacete de homem testemunhado",
+      "bkltkm": "Jogador usa o capacete",
+      "body": "§eGatilho\n\n§7Use o Capacete do Testificate Man perto do Testificate Man.\n\n§eReação\n\n§7Comentários sobre ver você usar o Capacete do Testificate Man."
+    },
+    "pknzon": {
+      "title": "Aldeão usa capacete de homem testemunhado",
+      "bkltkm": "Aldeão usa o capacete",
+      "body": "§eGatilho\n\n§7Faça com que outro aldeão use o Capacete do Testificate Man perto do Testificate Man.\n\n§eReação\n\n§7Comentários quando o Testificate Man vê outro aldeão usando seu capacete."
+    },
+    "atkfwv": {
+      "title": "Recebe dano",
+      "body": "§eGatilho\n\n§7Faça com que o Testificate Man sofra dano de qualquer fonte.\n\n§eReação\n\n§7Testifique as reações do Homem ao receber dano."
+    },
+    "mfnbct": {
+      "title": "Vê o jogador",
+      "body": "§eGatilho\n\n§7Aproxime-se o suficiente para que Wooly note você.\n\n§eReação\n\n§7A saudação normalmente pouco entusiasmada de Wooly quando eles notam você."
+    },
+    "erizum": {
+      "title": "Vagando",
+      "body": "§eGatilho\n\n§7Fique perto de Wooly enquanto eles estão vagando.\n\n§eReação\n\n§7Deadpan Wooly conversa fiada enquanto vaga."
+    },
+    "zxueya": {
+      "title": "Interaja com Wooly",
+      "body": "§eGatilho\n\n§7Interaja diretamente com Wooly.\n\n§eReação\n\n§7Respostas inexpressivas quando você interage com Wooly."
+    },
+    "hwvfvy": {
+      "title": "Cisalhamento lanoso",
+      "body": "§eGatilho\n\n§7Use uma tesoura em Wooly.\n\n§eReação\n\n§7A reação de Wooly ao ser tosquiado."
+    },
+    "vwqome": {
+      "title": "Recebe dano",
+      "body": "§eGatilho\n\n§7Faça com que Wooly receba dano de qualquer fonte.\n\n§eReação\n\n§7Reações gerais de Wooly ao receber dano."
+    },
+    "cbgiyz": {
+      "title": "Atacado pelo jogador",
+      "body": "§eGatilho\n\n§7Atacar Wooly diretamente.\n\n§eReação\n\n§7Reações Wooly mais fortes quando o jogador é responsável pelo dano."
+    },
+    "fibkja": {
+      "title": "Tente alcançar o aldeão intocável",
+      "bkltkm": "Alcance o Intocável",
+      "body": "§eGatilho\n\n§7Tente caminhar perto do Aldeão Intocável.\n\n§eReação\n\n§7Comentários provocativos enquanto o Aldeão Intocável continua se movendo fora de alcance."
+    },
+    "ijcfus": {
+      "title": "Conheça o prefeito",
+      "body": "§eGatilho\n\n§7Traga o prefeito para perto de um aldeão normal.\n\n§eReação\n\n§7Comentários regulares dos aldeões sobre o encontro com o prefeito."
+    },
+    "rxwhmd": {
+      "title": "Conheça o Aldeão #5",
+      "body": "§eGatilho\n\n§7Traga o Aldeão #5 para perto de um Aldeão normal.\n\n§eReação\n\n§7Comentários regulares do aldeão sobre o encontro com o aldeão nº 5."
+    },
+    "vcbqgf": {
+      "title": "Conheça o Aldeão #9",
+      "body": "§eGatilho\n\n§7Traga o Aldeão #9 para perto de um Aldeão normal.\n\n§eReação\n\n§7Comentários regulares do Aldeão sobre o encontro com o Aldeão #9."
+    },
+    "ixkyyq": {
+      "title": "Conheça o Testificate Man",
+      "body": "§eGatilho\n\n§7Traga o Testificate Man para perto de um aldeão normal.\n\n§eReação\n\n§7Comentários regulares de aldeões sobre o encontro com o Testificate Man."
+    }
+  }
+}

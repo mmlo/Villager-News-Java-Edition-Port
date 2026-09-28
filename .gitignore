@@ -1,0 +1,42 @@
+# Gradle
+build/
+.gradle/
+*.gradle.log
+
+# Minecraft Forge runtime & client runs
+run/
+runClient/
+runServer/
+runData/
+logs/
+*.log
+crash-reports/
+usercache.json
+usernamecache.json
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# IDE - Eclipse
+.project
+.classpath
+.settings/
+bin/
+*.launch
+.metadata/
+
+# IDE - Visual Studio Code
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.bak
+*~
+
+# Forge MDK leftovers
+forge*changelog.txt
