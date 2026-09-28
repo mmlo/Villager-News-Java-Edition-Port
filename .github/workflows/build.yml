@@ -4,8 +4,24 @@ on:
   push:
     branches: [ "main" ]
     tags: [ "v*" ]
+    paths-ignore:
+      - '**.md'
+      - '**.txt'
+      - '.github/ISSUE_TEMPLATE/**'
+      - '.gitignore'
+      - '.gitattributes'
+      - 'LICENSE*'
+      - 'docs/**'
   pull_request:
     branches: [ "main" ]
+    paths-ignore:
+      - '**.md'
+      - '**.txt'
+      - '.github/ISSUE_TEMPLATE/**'
+      - '.gitignore'
+      - '.gitattributes'
+      - 'LICENSE*'
+      - 'docs/**'
   workflow_dispatch:
 
 permissions:
@@ -44,7 +60,11 @@ jobs:
         path: build/libs/*.jar
 
     - name: Publish to GitHub Releases and CurseForge
-      if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+      if: |
+        (github.event_name == 'push' || github.event_name == 'workflow_dispatch') &&
+        !contains(github.event.head_commit.message, '[skip deploy]') &&
+        !contains(github.event.head_commit.message, '[skip release]') &&
+        !startsWith(github.event.head_commit.message, 'docs')
       uses: Kir-Antipov/mc-publish@v3.3
       with:
         curseforge-id: ${{ secrets.CURSEFORGE_PROJECT_ID }}
